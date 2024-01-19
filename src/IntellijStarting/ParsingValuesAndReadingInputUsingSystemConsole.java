@@ -27,7 +27,7 @@ public class ParsingValuesAndReadingInputUsingSystemConsole {
     public static String getInputFromScanner(int currentYear) {
         Scanner scanner = new Scanner(System.in);
 
-//        String name = System.console().readLine("Hi, what's your name?");
+//        String name       = System.console().readLine("Hi, what's your name?");
         System.out.println("Hi, what's your name?");
         String name = scanner.nextLine();
         System.out.println("Hi " + name + ", Thanks for taking the course!");
@@ -40,13 +40,14 @@ public class ParsingValuesAndReadingInputUsingSystemConsole {
 
         do {
             System.out.println("Enter a year of birth >= " + (currentYear - 125) + " and <= " + (currentYear));
-            try {age = checkData(currentYear, scanner.nextLine());
-            validDOB = age < 0 ? false : true;
+            try {
+                age = checkData(currentYear, scanner.nextLine());
+                validDOB = age < 0 ? false : true;
             } catch (NumberFormatException badUserData) {
                 System.out.println("Characters not allowed!!! Try agian.");
             }
         } while (!validDOB);
- 
+
         return "So you are " + age + " years old";
     }
 

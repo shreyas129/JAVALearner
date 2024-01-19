@@ -28,7 +28,7 @@ public class MinAndMaxChallenge {
         }
         if (loopcount > 0) {
             System.out.println("min = " + min + ", max = " + max);
-        } else {
+           } else {
             System.out.println("No vailid data entered");
         }
     }

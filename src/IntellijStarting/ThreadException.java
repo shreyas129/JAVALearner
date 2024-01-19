@@ -7,8 +7,9 @@ public class ThreadException {
         System.out.println("program ends ");
     }
 }
-class Thread2 implements  Runnable{
-    public void run(){
+
+class Thread2 implements Runnable {
+    public void run() {
         System.out.println("run");
         throw new RuntimeException("some errror");
     }
