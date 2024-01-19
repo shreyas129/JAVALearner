@@ -27,7 +27,7 @@ public class ParsingValuesAndReadingInputUsingSystemConsole {
     public static String getInputFromScanner(int currentYear) {
         Scanner scanner = new Scanner(System.in);
 
-//        String name       = System.console().readLine("Hi, what's your name?");
+//        String name = System.console().readLine("Hi, what's your name?");
         System.out.println("Hi, what's your name?");
         String name = scanner.nextLine();
         System.out.println("Hi " + name + ", Thanks for taking the course!");
