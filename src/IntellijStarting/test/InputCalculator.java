@@ -26,7 +26,7 @@ public class InputCalculator {
         if (sum == 0) {
             System.out.printf("SUM = %d AVG = %d", 0, 0);
         } else {
-            System.out.printf("SUM = %d AVG = %d", sum, sum / count);
+            System.out.printf("SUM = %d AVG = %d", sum, Math.round((double) sum / count));
         }
     }
 }
