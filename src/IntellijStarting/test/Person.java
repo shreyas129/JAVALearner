@@ -49,6 +49,24 @@ public class Person {
 //        else {
 //            return firstName;
 //        }
-        return !firstName.isEmpty() && !lastName.isEmpty() ? firstName + " " + lastName : firstName.isEmpty() && lastName.isEmpty() ? "" : firstName.isEmpty() ? lastName : firstName;
+
+//        return !firstName.isEmpty() && !lastName.isEmpty() ? firstName + " " + lastName : firstName.isEmpty() && lastName.isEmpty() ? "" : firstName.isEmpty() ? lastName : firstName;
+
+//        if (firstName.isEmpty()) {
+//            if (lastName.isEmpty()) {
+//                return "";
+//            }
+//            else {
+//                return lastName;
+//            }
+//        }
+//        else if (lastName.isEmpty()){
+//            return firstName;
+//        }
+//        else {
+//            return firstName + " " + lastName;
+//        }
+
+        return firstName.isEmpty() ? lastName.isEmpty() ? "" : lastName : lastName.isEmpty() ? firstName : firstName + " " + lastName;
     }
 }
