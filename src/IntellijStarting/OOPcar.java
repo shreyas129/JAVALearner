@@ -12,5 +12,13 @@ public class OOPcar {
         System.out.println("model = " + car.getModel());
         System.out.println();
         car.describeCar();
+
+        Car targa = new Car();
+        targa.setMake("Porsche");
+        targa.setModel("targa");
+        targa.setColor("red");
+        targa.setDoor(2);
+        targa.setConvertible(false);
+        targa.describeCar();
     }
 }
