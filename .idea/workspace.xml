@@ -97,6 +97,7 @@
     "Application.OOPcarChaBhau.executor": "Run",
     "Application.PaintJob.executor": "Run",
     "Application.ParsingValuesAndReadingInputUsingSystemConsole.executor": "Run",
+    "Application.Person.executor": "Run",
     "Application.ReadingUserInputChallenge.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
     "Application.TheCharAndBooleanDataTypes.executor": "Run",
@@ -287,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706285908199</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706287035737</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287035737</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
