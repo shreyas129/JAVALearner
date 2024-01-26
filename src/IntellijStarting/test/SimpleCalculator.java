@@ -45,10 +45,6 @@ public class SimpleCalculator {
     }
 
     public double getDivisionResult() {
-        if (secondNumber == 0) {
-            return 0;
-        } else {
-            return firstNumber / secondNumber;
-        }
+        return secondNumber == 0 ? 0 : firstNumber / secondNumber;
     }
 }
