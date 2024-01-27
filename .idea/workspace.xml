@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/ClassesChallengeAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ClassesChallengeAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706291294827</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706292101411</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1706292101411</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

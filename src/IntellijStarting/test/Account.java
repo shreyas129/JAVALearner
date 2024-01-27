@@ -7,6 +7,27 @@ public class Account {
     private String customerEmail;
     private String customerPhone;
 
+    public Account() {
+        this("123456", 2.50, "Deafault name", "Deafault address", "Deafault phone");
+        System.out.println("Empty constructer called");
+    }
+
+    public Account(String number, double balance, String customerName, String email, String phone) {
+        System.out.println("Account constructer with parameters called");
+        this.number = number;
+        this.balance = balance;
+        this.customerName = customerName;
+        customerEmail = email;
+        customerPhone = phone;
+    }
+
+    public Account(String customerName, String customerEmail, String customerPhone) {
+        this("!2#%46", 9800, customerName, customerEmail, customerPhone);
+//        this.customerName = customerName;
+//        this.customerEmail = customerEmail;
+//        this.customerPhone = customerPhone;
+    }
+
     public void depositeFunds(double depositeAmount) {
         balance += depositeAmount;
         System.out.println("Deposite of ₹ " + depositeAmount + " made. New balance is ₹ " + balance);
