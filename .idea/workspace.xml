@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ConstructorChallengeCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/ClassesChallengeAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ClassesChallengeAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClassesChallengeAccount.executor": "Run",
+    "Application.ConstructorChallengeCustomer.executor": "Run",
     "Application.DigonalStar.executor": "Run",
     "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
     "Application.InputCalculator.executor": "Run",
@@ -313,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706292101411</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706344280760</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1706344280760</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
