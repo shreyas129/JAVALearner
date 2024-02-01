@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/TesterWall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/TesterPoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +106,7 @@
     "Application.ReadingUserInputChallenge.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
     "Application.Tester.executor": "Run",
+    "Application.TesterPoint.executor": "Run",
     "Application.TheCharAndBooleanDataTypes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -124,6 +126,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="IntellijStarting.test" />
       <recent name="IntellijStarting" />
     </key>
   </component>
@@ -349,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706520195875</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706526141171</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1706526141171</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
