@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/InheritancePart_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Inheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +97,8 @@
     "Application.DigonalStar.executor": "Run",
     "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
     "Application.Floor.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InheritancePart_1.executor": "Debug",
     "Application.InputCalculator.executor": "Run",
     "Application.LargestPrime.executor": "Run",
     "Application.MinAndMaxChallenge.executor": "Run",
@@ -111,6 +113,7 @@
     "Application.Tester.executor": "Run",
     "Application.TesterPoint.executor": "Run",
     "Application.TheCharAndBooleanDataTypes.executor": "Run",
+    "Maven..executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -124,7 +127,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -132,6 +135,11 @@
       <recent name="IntellijStarting.test" />
       <recent name="IntellijStarting" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn" />
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -387,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707631085409</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707642916333</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1707642916333</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
