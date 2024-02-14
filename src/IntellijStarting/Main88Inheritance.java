@@ -1,6 +1,6 @@
 package IntellijStarting;
 
-public class Inheritance {
+public class Main88Inheritance {
     public static void main(String[] args) {
         Animal animal = new Animal("Generic Animal", "Huge", 400);
         doAnimalStuff(animal, "slow");
