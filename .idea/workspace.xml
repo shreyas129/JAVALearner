@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main91Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main92InheritanceChallenge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main88Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +103,7 @@
     "Application.InputCalculator.executor": "Run",
     "Application.LargestPrime.executor": "Run",
     "Application.Main91Object.executor": "Run",
+    "Application.Main92InheritanceChallenge1.executor": "Run",
     "Application.MinAndMaxChallenge.executor": "Run",
     "Application.OOPcar.executor": "Run",
     "Application.OOPcarChaBhau.executor": "Run",
@@ -114,6 +116,7 @@
     "Application.Tester.executor": "Run",
     "Application.TesterPoint.executor": "Run",
     "Application.TheCharAndBooleanDataTypes.executor": "Run",
+    "Application.Worker.executor": "Run",
     "Maven..executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -421,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707919841321</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707924157630</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1707924157630</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
