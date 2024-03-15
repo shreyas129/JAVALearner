@@ -19,7 +19,7 @@ public class Worker {
     public int getAge() {
         int currentYear = LocalDate.now().getYear();
         int birthYear = Integer.parseInt(birthDate.substring(6));
-        return currentYear - birthYear - 1000;
+        return currentYear - birthYear - 1000   ;
     }
 
     public double collectPay() {
