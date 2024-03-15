@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main92InheritanceChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main92InheritanceChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main96StringMultiLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main96StringMultiLine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Date.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Car.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Fish.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/MyThread.java" root0="FORCE_HIGHLIGHTING" />
@@ -87,53 +89,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassesChallengeAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorChallengeCustomer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigonalStar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloatingPointPrecisionAndAChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InheritancePart_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InputCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main91Object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinAndMaxChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcarChaBhau.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POJOStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PaintJob.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParsingValuesAndReadingInputUsingSystemConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingUserInputChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesterPoint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheCharAndBooleanDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Worker.executor&quot;: &quot;Run&quot;,
-    &quot;Maven..executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrey/IdeaProjects/WebFluxExamples&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.HTML&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.ClassesChallengeAccount.executor": "Run",
+    "Application.ComplexNumber.executor": "Run",
+    "Application.ConstructorChallengeCustomer.executor": "Run",
+    "Application.DigonalStar.executor": "Run",
+    "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InheritancePart_1.executor": "Debug",
+    "Application.InputCalculator.executor": "Run",
+    "Application.LargestPrime.executor": "Run",
+    "Application.Main91Object.executor": "Run",
+    "Application.Main92InheritanceChallenge.executor": "Run",
+    "Application.Main92InheritanceChallenge1.executor": "Run",
+    "Application.Main96StringMultiLine.executor": "Run",
+    "Application.MinAndMaxChallenge.executor": "Run",
+    "Application.OOPcar.executor": "Run",
+    "Application.OOPcarChaBhau.executor": "Run",
+    "Application.POJOStudent.executor": "Run",
+    "Application.PaintJob.executor": "Run",
+    "Application.ParsingValuesAndReadingInputUsingSystemConsole.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.ReadingUserInputChallenge.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.TesterPoint.executor": "Run",
+    "Application.TheCharAndBooleanDataTypes.executor": "Run",
+    "Application.Worker.executor": "Run",
+    "Maven..executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrey/IdeaProjects/WebFluxExamples",
+    "onboarding.tips.debug.path": "C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="IntellijStarting.test" />
@@ -463,7 +466,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710515715874</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="commit">
+      <option name="closed" value="true" />
+      <created>1710522806177</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710522806177</updated>
+    </task>
+    <task id="LOCAL-00040" summary="commit">
+      <option name="closed" value="true" />
+      <created>1710522820408</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1710522820408</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
