@@ -16,5 +16,6 @@ public class Main92InheritanceChallenge {
         System.out.println(swapnaja);
         System.out.println("Swapnaja's PayCheck = ₹" + swapnaja.collectPay());
         System.out.println("Swapnaja's holiday pay = ₹" + swapnaja.getDoublePay());
+        
     }
 }
