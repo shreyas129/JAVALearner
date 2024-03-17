@@ -1,6 +1,6 @@
 package IntellijStarting;
 
-public class Main97AllAboutStrings {
+public class Main97AboutStringVariables {
     public static void main(String[] args) {
         printInformation("Hello World");
         printInformation("");
