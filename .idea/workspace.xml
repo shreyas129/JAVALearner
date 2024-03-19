@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main101Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/PersonalComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/CompositionChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/SmartKitchen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +96,7 @@
     "Application.Calculator.executor": "Run",
     "Application.ClassesChallengeAccount.executor": "Run",
     "Application.ComplexNumber.executor": "Run",
+    "Application.CompositionChallenge.executor": "Run",
     "Application.ConstructorChallengeCustomer.executor": "Run",
     "Application.DigonalStar.executor": "Run",
     "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
@@ -555,7 +555,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710696795458</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="commit">
+      <option name="closed" value="true" />
+      <created>1710747012117</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1710747012117</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
