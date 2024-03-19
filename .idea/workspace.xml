@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/EncapsulationChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main39Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +110,7 @@
     "Application.Main104Encapsulation.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
+    "Application.Main39Printer.executor": "Run",
     "Application.Main91Object.executor": "Run",
     "Application.Main92InheritanceChallenge.executor": "Run",
     "Application.Main92InheritanceChallenge1.executor": "Run",
@@ -197,22 +197,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00008" summary="commit">
-      <option name="closed" value="true" />
-      <created>1705227202852</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1705227202852</updated>
-    </task>
-    <task id="LOCAL-00009" summary="commit">
-      <option name="closed" value="true" />
-      <created>1705678812698</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1705678812698</updated>
     </task>
     <task id="LOCAL-00010" summary="commit">
       <option name="closed" value="true" />
@@ -566,7 +550,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710861421447</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="commit">
+      <option name="closed" value="true" />
+      <created>1710864994720</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1710864994720</updated>
+    </task>
+    <task id="LOCAL-00055" summary="commit">
+      <option name="closed" value="true" />
+      <created>1710865591057</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1710865591057</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
