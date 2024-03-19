@@ -5,9 +5,9 @@ public class Bedroom {
     private Wall wall1, wall2, wall3, wall4;
     private Ceiling ceiling;
     private Bed bed;
-    private Lamp lamp;
+    private Main38Lamp lamp;
 
-    public Bedroom(String name, Wall wall1, Wall wall2, Wall wall3, Wall wall4, Ceiling ceiling, Bed bed, Lamp lamp) {
+    public Bedroom(String name, Wall wall1, Wall wall2, Wall wall3, Wall wall4, Ceiling ceiling, Bed bed, Main38Lamp lamp) {
         this.name = name;
         this.wall1 = wall1;
         this.wall2 = wall2;
@@ -18,7 +18,7 @@ public class Bedroom {
         this.lamp = lamp;
     }
 
-    public Lamp getLamp() {
+    public Main38Lamp getLamp() {
         return lamp;
     }
 
