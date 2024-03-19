@@ -1,22 +1,22 @@
 package IntellijStarting.test;
 
-public class Wall {
+public class MainWall {
     private double width;
     private double height;
 
     public static void main(String[] args) {
-        Wall wall = new Wall(5,4);
-        System.out.println("area= " + wall.getArea());
-        wall.setHeight(-1.5);
-        System.out.println("width= " + wall.getWidth());
-        System.out.println("height= " + wall.getHeight());
-        System.out.println("area= " + wall.getArea());
+        MainWall mainWall = new MainWall(5,4);
+        System.out.println("area= " + mainWall.getArea());
+        mainWall.setHeight(-1.5);
+        System.out.println("width= " + mainWall.getWidth());
+        System.out.println("height= " + mainWall.getHeight());
+        System.out.println("area= " + mainWall.getArea());
     }
 
-    public Wall() {
+    public MainWall() {
     }
 
-    public Wall(double width, double height) {
+    public MainWall(double width, double height) {
         this.width = width;
         this.height = height;
         if (width < 0) this.width = 0;
