@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +64,11 @@
     <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Date.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Car.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Fish.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Movie.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/MyThread.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/OOPcar.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/ParsingValuesAndReadingInputUsingSystemConsole.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Polymorphism.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/Account.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/DigonalStar.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/InputCalculator.java" root0="SKIP_INSPECTION" />
@@ -122,6 +128,7 @@
     "Application.PaintJob.executor": "Run",
     "Application.ParsingValuesAndReadingInputUsingSystemConsole.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
     "Application.ReadingUserInputChallenge.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
     "Application.Tester.executor": "Run",
@@ -143,9 +150,12 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.HTML"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="IntellijStarting.test" />
@@ -194,14 +204,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00011" summary="commit">
-      <option name="closed" value="true" />
-      <created>1705679788624</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1705679788624</updated>
     </task>
     <task id="LOCAL-00012" summary="commit">
       <option name="closed" value="true" />
@@ -563,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710873344914</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="commit">
+      <option name="closed" value="true" />
+      <created>1710925298494</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1710925298495</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
