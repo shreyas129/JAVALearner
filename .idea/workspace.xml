@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/BillBurgerChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main113BillBurgerChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Item.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,14 +206,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00017" summary="commit">
-      <option name="closed" value="true" />
-      <created>1705859530940</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1705859530940</updated>
     </task>
     <task id="LOCAL-00018" summary="commit">
       <option name="closed" value="true" />
@@ -577,7 +567,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711201428876</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711371663465</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1711371663467</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
