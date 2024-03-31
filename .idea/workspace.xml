@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main41SortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/SortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +138,7 @@
     "Application.Polymorphism.executor": "Run",
     "Application.ReadingUserInputChallenge.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
+    "Application.SortedArray.executor": "Run",
     "Application.Tester.executor": "Run",
     "Application.TesterPoint.executor": "Run",
     "Application.TheCharAndBooleanDataTypes.executor": "Run",
@@ -172,26 +174,6 @@
     <option name="myCommands">
       <command value="mvn" />
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Main88Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntellijStarting.Main88Inheritance" />
-      <module name="JAVALearner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IntellijStarting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main88Inheritance" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -230,22 +212,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00023" summary="commit">
-      <option name="closed" value="true" />
-      <created>1706344280760</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1706344280760</updated>
-    </task>
-    <task id="LOCAL-00024" summary="commit">
-      <option name="closed" value="true" />
-      <created>1706353178967</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1706353178967</updated>
     </task>
     <task id="LOCAL-00025" summary="commit">
       <option name="closed" value="true" />
@@ -599,7 +565,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711873508867</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711873983244</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1711873983245</updated>
+    </task>
+    <task id="LOCAL-00070" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711874006512</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1711874006513</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,11 +610,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IntellijStarting/Main120UsingArrays.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
