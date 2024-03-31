@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ArraysChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +118,7 @@
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
     "Application.Main40Car.executor": "Run",
+    "Application.Main88Inheritance.executor": "Run",
     "Application.Main91Object.executor": "Run",
     "Application.Main92InheritanceChallenge.executor": "Run",
     "Application.Main92InheritanceChallenge1.executor": "Run",
@@ -173,6 +173,26 @@
       <command value="mvn" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main88Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntellijStarting.Main88Inheritance" />
+      <module name="JAVALearner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntellijStarting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main88Inheritance" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -210,14 +230,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00022" summary="commit">
-      <option name="closed" value="true" />
-      <created>1706292101411</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1706292101411</updated>
     </task>
     <task id="LOCAL-00023" summary="commit">
       <option name="closed" value="true" />
@@ -579,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711807264507</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711873508866</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1711873508867</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

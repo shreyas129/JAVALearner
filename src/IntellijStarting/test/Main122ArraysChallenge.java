@@ -3,7 +3,7 @@ package IntellijStarting.test;
 import java.util.Arrays;
 import java.util.Random;
 
-public class ArraysChallenge {
+public class Main122ArraysChallenge {
     public static void main(String[] args) {
         int[] unsortedArray = getRandomArray(5);
         System.out.println(Arrays.toString(unsortedArray));
