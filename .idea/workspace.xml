@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ArraysChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main120UsingArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main120UsingArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,72 +92,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassesChallengeAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompositionChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorChallengeCustomer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigonalStar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulationChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloatingPointPrecisionAndAChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InheritancePart_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InputCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lamp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main101Composition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main104Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main111PolymorphismChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main113BillBurgerChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main118Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main120UsingArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main40Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main91Object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main96StringMultiLine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main97AllAboutStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main98AboutStringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main99StringBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinAndMaxChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextPolymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcarChaBhau.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POJOStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PaintJob.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParsingValuesAndReadingInputUsingSystemConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingUserInputChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesterPoint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheCharAndBooleanDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Worker.executor&quot;: &quot;Run&quot;,
-    &quot;Maven..executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrey/IdeaProjects/WebFluxExamples&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArraysChallenge.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.ClassesChallengeAccount.executor": "Run",
+    "Application.ComplexNumber.executor": "Run",
+    "Application.CompositionChallenge.executor": "Run",
+    "Application.ConstructorChallengeCustomer.executor": "Run",
+    "Application.DigonalStar.executor": "Run",
+    "Application.EncapsulationChallenge.executor": "Run",
+    "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InheritancePart_1.executor": "Debug",
+    "Application.InputCalculator.executor": "Run",
+    "Application.Lamp.executor": "Run",
+    "Application.LargestPrime.executor": "Run",
+    "Application.Main101Composition.executor": "Run",
+    "Application.Main104Encapsulation.executor": "Run",
+    "Application.Main111PolymorphismChallenge.executor": "Run",
+    "Application.Main113BillBurgerChallenge.executor": "Run",
+    "Application.Main118Arrays.executor": "Run",
+    "Application.Main120UsingArrays.executor": "Run",
+    "Application.Main36Circle.executor": "Run",
+    "Application.Main37Rectangle.executor": "Run",
+    "Application.Main39Printer.executor": "Run",
+    "Application.Main40Car.executor": "Run",
+    "Application.Main91Object.executor": "Run",
+    "Application.Main92InheritanceChallenge.executor": "Run",
+    "Application.Main92InheritanceChallenge1.executor": "Run",
+    "Application.Main96StringMultiLine.executor": "Run",
+    "Application.Main97AllAboutStrings.executor": "Run",
+    "Application.Main98AboutStringMethods.executor": "Run",
+    "Application.Main99StringBuilders.executor": "Run",
+    "Application.MinAndMaxChallenge.executor": "Run",
+    "Application.NextPolymorphism.executor": "Run",
+    "Application.OOPcar.executor": "Run",
+    "Application.OOPcarChaBhau.executor": "Run",
+    "Application.POJOStudent.executor": "Run",
+    "Application.PaintJob.executor": "Run",
+    "Application.ParsingValuesAndReadingInputUsingSystemConsole.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.ReadingUserInputChallenge.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.TesterPoint.executor": "Run",
+    "Application.TheCharAndBooleanDataTypes.executor": "Run",
+    "Application.Worker.executor": "Run",
+    "Maven..executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrey/IdeaProjects/WebFluxExamples",
+    "onboarding.tips.debug.path": "C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.reader.mode"
   }
-}</component>
+}]]></component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
@@ -209,14 +210,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00021" summary="commit">
-      <option name="closed" value="true" />
-      <created>1706291294827</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1706291294827</updated>
     </task>
     <task id="LOCAL-00022" summary="commit">
       <option name="closed" value="true" />
@@ -578,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711443539311</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="commit">
+      <option name="closed" value="true" />
+      <created>1711807264506</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1711807264507</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
