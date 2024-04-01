@@ -8,11 +8,11 @@ public class ReverseArrayChallenge {
         int[] returnedArray = readIntegers();
         System.out.println(Arrays.toString(returnedArray));
 
-//        int returnedMin = findMin(returnedArray);
-//        System.out.println("min = " + returnedMin);
+        int returnedMin = findMin(returnedArray);
+        System.out.println("min = " + returnedMin);
 
-//        reverse(returnedArray);
-//        System.out.println("Final: " + Arrays.toString(returnedArray));
+        reverse(returnedArray);
+        System.out.println("Final: " + Arrays.toString(returnedArray));
 
         int[] reversedCopy = reverseCopy(returnedArray);
         System.out.println("After reverse " + Arrays.toString(returnedArray));
