@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main137LinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/LinkedListChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +115,7 @@
     "Application.InputCalculator.executor": "Run",
     "Application.Lamp.executor": "Run",
     "Application.LargestPrime.executor": "Run",
+    "Application.LinkedListChallenge.executor": "Run",
     "Application.Main101Composition.executor": "Run",
     "Application.Main104Encapsulation.executor": "Run",
     "Application.Main111PolymorphismChallenge.executor": "Run",
@@ -228,14 +229,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00040" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710522820408</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1710522820408</updated>
     </task>
     <task id="LOCAL-00041" summary="commit">
       <option name="closed" value="true" />
@@ -597,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712148388682</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712212553589</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1712212553589</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
