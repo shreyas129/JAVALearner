@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main45Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Autoboxing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +99,7 @@
     "Application.ArrayReferences.executor": "Run",
     "Application.ArraysAndArrayLists.executor": "Run",
     "Application.ArraysChallenge.executor": "Run",
+    "Application.Autoboxing.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.ClassesChallengeAccount.executor": "Run",
     "Application.ComplexNumber.executor": "Run",
@@ -221,14 +221,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00042" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710571511331</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1710571511331</updated>
     </task>
     <task id="LOCAL-00043" summary="commit">
       <option name="closed" value="true" />
@@ -590,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712246387349</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712340354666</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1712340354681</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
