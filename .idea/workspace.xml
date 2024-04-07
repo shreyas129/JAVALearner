@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AutoBoxingAndAutoUnboxingChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Autoboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Autoboxing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +99,8 @@
     "Application.ArrayReferences.executor": "Run",
     "Application.ArraysAndArrayLists.executor": "Run",
     "Application.ArraysChallenge.executor": "Run",
+    "Application.AutoBoxingAndAutoUnboxingChallenge.executor": "Run",
+    "Application.AutoBoxingChallenge.executor": "Run",
     "Application.Autoboxing.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.ClassesChallengeAccount.executor": "Run",
@@ -221,14 +223,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00044" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710670622846</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1710670622846</updated>
     </task>
     <task id="LOCAL-00045" summary="commit">
       <option name="closed" value="true" />
@@ -590,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712469389702</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712480227339</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1712480227339</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
