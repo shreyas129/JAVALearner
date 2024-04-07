@@ -9,7 +9,7 @@ record Customer1(String name, ArrayList<Double> transactions) {
     }
 }
 
-public class AutoBoxingAndAutoUnboxingChallenge {
+public class Main145AutoBoxingAndAutoUnboxingChallenge {
     public static void main(String[] args) {
         Customer1 bob = new Customer1("Bob S", 1000.0);
         System.out.println(bob);
