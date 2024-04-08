@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AutoBoxingAndAutoUnboxingChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Customer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main46Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,6 +136,7 @@
     "Application.Main39Printer.executor": "Run",
     "Application.Main40Car.executor": "Run",
     "Application.Main45Album.executor": "Run",
+    "Application.Main46Bank.executor": "Debug",
     "Application.Main88Inheritance.executor": "Run",
     "Application.Main91Object.executor": "Run",
     "Application.Main92InheritanceChallenge.executor": "Run",
@@ -223,30 +226,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00045" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710687406943</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1710687406943</updated>
-    </task>
-    <task id="LOCAL-00046" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710693973546</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1710693973546</updated>
-    </task>
-    <task id="LOCAL-00047" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710695338071</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1710695338071</updated>
     </task>
     <task id="LOCAL-00048" summary="commit">
       <option name="closed" value="true" />
@@ -592,7 +571,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712480227339</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712501812480</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1712501812480</updated>
+    </task>
+    <task id="LOCAL-00092" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712502522064</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1712502522064</updated>
+    </task>
+    <task id="LOCAL-00093" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712502553510</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1712502553510</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -621,6 +624,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntellijStarting/test/Main46Bank.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
