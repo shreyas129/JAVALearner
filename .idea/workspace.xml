@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Animal150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Dog150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main150AbstractClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Fish150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Horse150.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Animal150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Animal150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/DayOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/DayOfTheWeek146.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Dog150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Dog150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main146Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main146Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main150AbstractClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main150AbstractClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +137,7 @@
     &quot;Application.Main132MoreLists.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main137LinkedLists.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main146Enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main150AbstractClasses.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
@@ -190,8 +195,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="IntellijStarting.test" />
       <recent name="IntellijStarting" />
+      <recent name="IntellijStarting.test" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -228,14 +233,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00051" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710839232555</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1710839232555</updated>
     </task>
     <task id="LOCAL-00052" summary="commit">
       <option name="closed" value="true" />
@@ -597,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712654888234</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712662152521</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1712662152521</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

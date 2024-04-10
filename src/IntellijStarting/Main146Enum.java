@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Main146Enum {
     public static void main(String[] args) {
-        DayOfTheWeek weekDay = DayOfTheWeek.TUE;
+        DayOfTheWeek146 weekDay = DayOfTheWeek146.TUE;
         System.out.println(weekDay);
 
         for (int i = 0; i < 10; i++) {
@@ -12,7 +12,7 @@ public class Main146Enum {
 
 //            System.out.printf("Name is %s, Ordinal Value = %d%n", weekDay.name(), weekDay.ordinal());
 //
-//            if (weekDay == DayOfTheWeek.FRI) {
+//            if (weekDay == DayOfTheWeek146.FRI) {
 //                System.out.println("Found Friday!!!");
 //            }
 
@@ -24,7 +24,7 @@ public class Main146Enum {
         }
     }
 
-    public static void switchDayOfWeek(DayOfTheWeek weekDay) {
+    public static void switchDayOfWeek(DayOfTheWeek146 weekDay) {
         int weekDayInteger = weekDay.ordinal() + 1;
         switch (weekDay) {
             case WED -> System.out.println("Wednesday is the day " + weekDayInteger);
@@ -33,9 +33,9 @@ public class Main146Enum {
         }
     }
 
-    public static DayOfTheWeek getRandomDay() {
+    public static DayOfTheWeek146 getRandomDay() {
         int randomInteger = new Random().nextInt(7);
-        var allDays = DayOfTheWeek.values();
+        var allDays = DayOfTheWeek146.values();
 
         return allDays[randomInteger];
     }

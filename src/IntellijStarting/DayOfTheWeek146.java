@@ -1,5 +1,5 @@
 package IntellijStarting;
 
-public enum DayOfTheWeek {
+public enum DayOfTheWeek146 {
     SUN, MON, TUE, WED, THURS, FRI, SAT;
 }
