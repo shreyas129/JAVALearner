@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Fish150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Horse150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ArtObject153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Furniture154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main153AbstractChallengeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ProductForSale153.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Animal150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Animal150.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/DayOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/DayOfTheWeek146.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Dog150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Dog150.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main146Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main146Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main150AbstractClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main150AbstractClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +135,7 @@
     &quot;Application.Main137LinkedLists.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main146Enum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main150AbstractClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main153AbstractChallengeStore.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
@@ -195,8 +193,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="IntellijStarting" />
       <recent name="IntellijStarting.test" />
+      <recent name="IntellijStarting" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -233,14 +231,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00052" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710840137667</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1710840137667</updated>
     </task>
     <task id="LOCAL-00053" summary="commit">
       <option name="closed" value="true" />
@@ -602,7 +592,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712662152521</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712759546124</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1712759546125</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
