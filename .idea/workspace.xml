@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ArtObject153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Furniture154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main153AbstractChallengeStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ProductForSale153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Animal155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Bird155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Jet156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main155Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Truck156.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +137,7 @@
     &quot;Application.Main146Enum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main150AbstractClasses.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main153AbstractChallengeStore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main155Interfaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
@@ -231,14 +233,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00053" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710861421447</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1710861421447</updated>
     </task>
     <task id="LOCAL-00054" summary="commit">
       <option name="closed" value="true" />
@@ -600,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712759546125</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="commit">
+      <option name="closed" value="true" />
+      <created>1712926485403</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1712926485408</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
