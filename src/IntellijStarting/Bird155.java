@@ -1,6 +1,6 @@
 package IntellijStarting;
 
-public class Bird155 extends Animal155 implements FlightEnabled, Trackable {
+public class Bird155 extends Animal155 implements FlightEnabled156, Trackable156 {
     @Override
     public void move() {
         System.out.println("Flaps wings");
