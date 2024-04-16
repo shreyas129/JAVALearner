@@ -1,6 +1,6 @@
 package IntellijStarting;
 
-public class Test {
+public class Test159 {
     public static void main(String[] args) {
         inFlight(new Jet156());
 
