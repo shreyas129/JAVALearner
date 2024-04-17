@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ListItem47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/MyLinkedList47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Node47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/NodeList47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/SearchTree47.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,14 +234,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00056" summary="commit">
-      <option name="closed" value="true" />
-      <created>1710873344913</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1710873344914</updated>
     </task>
     <task id="LOCAL-00057" summary="commit">
       <option name="closed" value="true" />
@@ -598,7 +595,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713195676013</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="commit">
+      <option name="closed" value="true" />
+      <created>1713242399665</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1713242399666</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
