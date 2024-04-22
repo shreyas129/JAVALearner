@@ -3,13 +3,26 @@ package IntellijStarting;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Team165<T> {
+record Affiliation(String name, String type, String countryCode) {
+    @Override
+    public String toString() {
+        return name + " (" + type + " in " + countryCode + ")";
+    }
+}
+
+public class Team165<T extends Player165, S> {
     private String teamName;
     private List<T> teamMembers = new ArrayList<>();
     private int totalWins = 0, totalLosses = 0, totalTies = 0;
+    private S affiliation;
 
     public Team165(String teamName) {
         this.teamName = teamName;
+    }
+
+    public Team165(String teamName, S affiliation) {
+        this.teamName = teamName;
+        this.affiliation = affiliation;
     }
 
     public void addTeamMember(T t) {
@@ -19,8 +32,11 @@ public class Team165<T> {
     }
 
     public void listTeamMembers() {
-        System.out.println(teamName + " Roster:");
-        System.out.println(teamMembers);
+        System.out.print(teamName + " Roster:");
+        System.out.println((affiliation == null ? "" : " AFFILIATION: " + affiliation));
+        for (T t : teamMembers) {
+            System.out.println(t.name());
+        }
     }
 
     public int ranking() {
