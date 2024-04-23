@@ -24,11 +24,11 @@ public class UtilityLine162 implements Mappable161{
     @Override
     public String getMarker() {
         return switch (type) {
-            case ELECTRICAL -> Color.RED + " " + LineMarker.DASHED;
-            case FIBER_OPTIC -> Color.GREEN + " " + LineMarker.DOTTED;
-            case GAS -> Color.ORANGE + " " + LineMarker.SOLID;
-            case WATER -> Color.BLUE + " " + LineMarker.SOLID;
-            default -> Color.BLACK + " " + LineMarker.SOLID;
+            case ELECTRICAL -> Color161.RED + " " + LineMarker161.DASHED;
+            case FIBER_OPTIC -> Color161.GREEN + " " + LineMarker161.DOTTED;
+            case GAS -> Color161.ORANGE + " " + LineMarker161.SOLID;
+            case WATER -> Color161.BLUE + " " + LineMarker161.SOLID;
+            default -> Color161.BLACK + " " + LineMarker161.SOLID;
         };
     }
 

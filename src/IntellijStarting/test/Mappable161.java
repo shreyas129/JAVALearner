@@ -2,11 +2,11 @@ package IntellijStarting.test;
 
 enum Geometry161 {LINE, POINT, POLYGON}
 
-enum Color {BLACK, BLUE, GREEN, ORANGE, RED}
+enum Color161 {BLACK, BLUE, GREEN, ORANGE, RED}
 
-enum PointMarker {CIRCLE, PUSH_PIN, STAR, SQUARE, TRIANGLE}
+enum PointMarker161 {CIRCLE, PUSH_PIN, STAR, SQUARE, TRIANGLE}
 
-enum LineMarker {DASHED, DOTTED, SOLID}
+enum LineMarker161 {DASHED, DOTTED, SOLID}
 
 public interface Mappable161 {
     String JSON_PROPERTY = """
