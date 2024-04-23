@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Layer168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/MainGenericClassChallenge167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Mappable167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Park168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/River168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main169Comparing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Building162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Building162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Mappable161.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Mappable161.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/UtilityLine162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/UtilityLine162.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +135,7 @@
     "Application.Main150AbstractClasses.executor": "Run",
     "Application.Main153AbstractChallengeStore.executor": "Run",
     "Application.Main155Interfaces.executor": "Run",
+    "Application.Main169Comparing.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -241,14 +235,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00062" summary="commit">
-      <option name="closed" value="true" />
-      <created>1711201428876</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1711201428876</updated>
     </task>
     <task id="LOCAL-00063" summary="commit">
       <option name="closed" value="true" />
@@ -610,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713764231685</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="commit">
+      <option name="closed" value="true" />
+      <created>1713847344460</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1713847344460</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
