@@ -3,6 +3,13 @@ package IntellijStarting;
 import java.util.ArrayList;
 import java.util.List;
 
+//record Employee173(String name) implements QueryItem173 {
+//    @Override
+//    public boolean matchField(String fieldName, String value) {
+//        return false;
+//    }
+//}
+
 public class MainGenericsExtras171 {
     public static void main(String[] args) {
         int studentCount = 10;
@@ -14,15 +21,24 @@ public class MainGenericsExtras171 {
 //        printList(students);
         printMoreLists(students);
 
-        List<LPAStudent171>LPAStudents=new ArrayList<>();
+        List<LPAStudent171>lpaStudents=new ArrayList<>();
         for(int i=0;i<studentCount;i++){
-            LPAStudents.add(new LPAStudent171());
+            lpaStudents.add(new LPAStudent171());
         }
-//        printList(LPAStudents);
-        printMoreLists(LPAStudents);
+//        printList(lpaStudents);
+        printMoreLists(lpaStudents);
 
         testList(new ArrayList<String>(List.of("Able", "Barry", "Charlie")));
         testList(new ArrayList<Integer>(List.of(1, 2, 3)));
+
+        var queryList = new QueryList173<>(lpaStudents);
+        var matches = queryList.getMatches("Course", "Python");
+        printMoreLists(matches);
+
+        var student2021 = QueryList173.getMatches(students, "YearStarted", "2021");
+        printMoreLists(student2021);
+
+//        QueryList173<Employee173> employeeList = new QueryList173<>();
     }
 
     public static void printMoreLists(List<? extends Student171> students){

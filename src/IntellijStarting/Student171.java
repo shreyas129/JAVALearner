@@ -3,7 +3,7 @@ package IntellijStarting;
 import java.time.Year;
 import java.util.Random;
 
-public class Student171 {
+public class Student171 implements QueryItem173{
     private String name, course;
     private int yearStarted;
     protected static Random random = new Random();
@@ -23,5 +23,16 @@ public class Student171 {
 
     public int getYearStarted() {
         return yearStarted;
+    }
+
+    @Override
+    public boolean matchField(String fieldName, String value) {
+        String fName = fieldName.toUpperCase();
+        return switch(fName) {
+            case "NAME" -> name.equalsIgnoreCase(value);
+            case "COURSE" -> course.equalsIgnoreCase(value);
+            case "YEARSTARTED" -> yearStarted == (Integer.parseInt(value));
+            default -> false;
+        };
     }
 }
