@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/LPAStudent171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/MainGenericsExtras171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Student171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,103 +97,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayListChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayReferences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraysAndArrayLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraysChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoBoxingAndAutoUnboxingChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoBoxingChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Autoboxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassesChallengeAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompositionChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorChallengeCustomer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigonalStar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulationChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloatingPointPrecisionAndAChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InheritancePart_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InputCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lamp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main101Composition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main104Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main111PolymorphismChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main113BillBurgerChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main118Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main120UsingArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main125VarArgs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main128TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main128TwoDimensionalArrayAndMultiDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main131ArrayLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main132MoreLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main137LinkedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main146Enum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main150AbstractClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main153AbstractChallengeStore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main155Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main169Comparing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main40Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main45Album.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main46Bank.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main88Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main91Object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main96StringMultiLine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main97AllAboutStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main98AboutStringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main99StringBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainGenericClassChallenge167.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainGenerics164.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainInterfaceChallenge161.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinAndMaxChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumElementChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoreLists132.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextPolymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcarChaBhau.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POJOStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PaintJob.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParsingValuesAndReadingInputUsingSystemConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingUserInputChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReverseArrayChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesterPoint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheCharAndBooleanDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Worker.executor&quot;: &quot;Run&quot;,
-    &quot;Maven..executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrey/IdeaProjects/WebFluxExamples&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListChallenge.executor": "Run",
+    "Application.ArrayReferences.executor": "Run",
+    "Application.ArraysAndArrayLists.executor": "Run",
+    "Application.ArraysChallenge.executor": "Run",
+    "Application.AutoBoxingAndAutoUnboxingChallenge.executor": "Run",
+    "Application.AutoBoxingChallenge.executor": "Run",
+    "Application.Autoboxing.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.ClassesChallengeAccount.executor": "Run",
+    "Application.ComplexNumber.executor": "Run",
+    "Application.CompositionChallenge.executor": "Run",
+    "Application.ConstructorChallengeCustomer.executor": "Run",
+    "Application.DigonalStar.executor": "Run",
+    "Application.EncapsulationChallenge.executor": "Run",
+    "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InheritancePart_1.executor": "Debug",
+    "Application.InputCalculator.executor": "Run",
+    "Application.Lamp.executor": "Run",
+    "Application.LargestPrime.executor": "Run",
+    "Application.LinkedListChallenge.executor": "Run",
+    "Application.Main101Composition.executor": "Run",
+    "Application.Main104Encapsulation.executor": "Run",
+    "Application.Main111PolymorphismChallenge.executor": "Run",
+    "Application.Main113BillBurgerChallenge.executor": "Run",
+    "Application.Main118Arrays.executor": "Run",
+    "Application.Main120UsingArrays.executor": "Run",
+    "Application.Main125VarArgs.executor": "Run",
+    "Application.Main128TwoDimensionalArray.executor": "Run",
+    "Application.Main128TwoDimensionalArrayAndMultiDimensionalArray.executor": "Run",
+    "Application.Main131ArrayLists.executor": "Run",
+    "Application.Main132MoreLists.executor": "Run",
+    "Application.Main137LinkedLists.executor": "Run",
+    "Application.Main146Enum.executor": "Run",
+    "Application.Main150AbstractClasses.executor": "Run",
+    "Application.Main153AbstractChallengeStore.executor": "Run",
+    "Application.Main155Interfaces.executor": "Run",
+    "Application.Main169Comparing.executor": "Run",
+    "Application.Main36Circle.executor": "Run",
+    "Application.Main37Rectangle.executor": "Run",
+    "Application.Main39Printer.executor": "Run",
+    "Application.Main40Car.executor": "Run",
+    "Application.Main45Album.executor": "Run",
+    "Application.Main46Bank.executor": "Debug",
+    "Application.Main88Inheritance.executor": "Run",
+    "Application.Main91Object.executor": "Run",
+    "Application.Main92InheritanceChallenge.executor": "Run",
+    "Application.Main92InheritanceChallenge1.executor": "Run",
+    "Application.Main96StringMultiLine.executor": "Run",
+    "Application.Main97AllAboutStrings.executor": "Run",
+    "Application.Main98AboutStringMethods.executor": "Run",
+    "Application.Main99StringBuilders.executor": "Run",
+    "Application.MainGenericClassChallenge167.executor": "Run",
+    "Application.MainGenerics164.executor": "Run",
+    "Application.MainGenericsExtras171.executor": "Run",
+    "Application.MainInterfaceChallenge161.executor": "Run",
+    "Application.MinAndMaxChallenge.executor": "Run",
+    "Application.MinimumElementChallenge.executor": "Run",
+    "Application.MoreLists132.executor": "Run",
+    "Application.NextPolymorphism.executor": "Run",
+    "Application.OOPcar.executor": "Run",
+    "Application.OOPcarChaBhau.executor": "Run",
+    "Application.POJOStudent.executor": "Run",
+    "Application.PaintJob.executor": "Run",
+    "Application.ParsingValuesAndReadingInputUsingSystemConsole.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.ReadingUserInputChallenge.executor": "Run",
+    "Application.ReverseArray.executor": "Debug",
+    "Application.ReverseArrayChallenge.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.TesterPoint.executor": "Run",
+    "Application.TheCharAndBooleanDataTypes.executor": "Run",
+    "Application.Worker.executor": "Run",
+    "Maven..executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrey/IdeaProjects/WebFluxExamples",
+    "onboarding.tips.debug.path": "C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
@@ -232,14 +238,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00065" summary="commit">
-      <option name="closed" value="true" />
-      <created>1711377459161</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1711377459161</updated>
     </task>
     <task id="LOCAL-00066" summary="commit">
       <option name="closed" value="true" />
@@ -601,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713962779415</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="commit">
+      <option name="closed" value="true" />
+      <created>1713962842060</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1713962842060</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
