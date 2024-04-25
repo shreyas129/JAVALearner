@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/LPAStudent174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/LPAStudentComparator174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main174GenericsAndWildCardAndTypeErasureAndUpperBoundsAndLowerBoundsChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/QueryItem174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/QueryList174.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Student174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Employee176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/EmployeeComparator176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/MainNestedClasses176.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +83,7 @@
     <setting file="file://$PROJECT_DIR$/src/test/FloatingPointPrecisionAndAChallenge.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -160,6 +157,7 @@
     "Application.MainGenerics164.executor": "Run",
     "Application.MainGenericsExtras171.executor": "Run",
     "Application.MainInterfaceChallenge161.executor": "Run",
+    "Application.MainNestedClasses176.executor": "Run",
     "Application.MinAndMaxChallenge.executor": "Run",
     "Application.MinimumElementChallenge.executor": "Run",
     "Application.MoreLists132.executor": "Run",
@@ -242,14 +240,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00069" summary="commit">
-      <option name="closed" value="true" />
-      <created>1711873983244</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1711873983245</updated>
     </task>
     <task id="LOCAL-00070" summary="commit">
       <option name="closed" value="true" />
@@ -611,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713972696544</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="commit">
+      <option name="closed" value="true" />
+      <created>1713975315568</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1713975315569</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
