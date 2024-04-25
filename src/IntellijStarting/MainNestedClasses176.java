@@ -15,5 +15,16 @@ public class MainNestedClasses176 {
         for(Employee176 e:employees){
             System.out.println(e);
         }
+
+        System.out.println("Store members");
+
+        List<StoreEmployee177> storeEmployees=new ArrayList<>(List.of(new StoreEmployee177(10015, "Meg", 2019, "Target"), new StoreEmployee177(10515, "Joe", 2021, "Walmart"), new StoreEmployee177(10105, "Tom", 2020, "Macys"), new StoreEmployee177(10215, "Marty", 2018, "Walmart"), new StoreEmployee177(10322, "Bud", 2016, "Target")));
+
+        var comparator=new StoreEmployee177().new StoreComparator177<>();
+        storeEmployees.sort(comparator);
+
+        for(StoreEmployee177 e:storeEmployees){
+            System.out.println(e);
+        }
     }
 }
