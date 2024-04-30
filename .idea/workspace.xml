@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main184LambdaIntro.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions intro">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +136,7 @@
     "Application.Main174GenericsAndWildCardAndTypeErasureAndUpperBoundsAndLowerBoundsChallenge.executor": "Run",
     "Application.Main182TheLocalAndAnonymousClassChallenge.executor": "Run",
     "Application.Main184LambdaIntro.executor": "Run",
+    "Application.Main185LambdaExpressions.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -241,14 +242,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00078" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712058721002</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1712058721003</updated>
     </task>
     <task id="LOCAL-00079" summary="commit">
       <option name="closed" value="true" />
@@ -610,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714380291315</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="lambda expressions intro">
+      <option name="closed" value="true" />
+      <created>1714382212211</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1714382212211</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -626,7 +627,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="lambda expressions intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions intro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
