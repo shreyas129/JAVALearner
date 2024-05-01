@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Algorithms Selection sort">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/MainInsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Operation186.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,10 +157,11 @@
     "Application.MainGenericClassChallenge167.executor": "Run",
     "Application.MainGenerics164.executor": "Run",
     "Application.MainGenericsExtras171.executor": "Run",
+    "Application.MainInsertionSort.executor": "Run",
     "Application.MainInterfaceChallenge161.executor": "Run",
     "Application.MainNestedClasses176.executor": "Run",
     "Application.MainNestedClasses180.executor": "Run",
-    "Application.MainSelectionSort.executor": "Run",
+    "Application.MainSelectionSort.executor": "Debug",
     "Application.MainStore178.executor": "Run",
     "Application.MainStore179.executor": "Run",
     "Application.MinAndMaxChallenge.executor": "Run",
@@ -244,14 +247,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00082" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712074153191</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1712074153191</updated>
     </task>
     <task id="LOCAL-00083" summary="commit">
       <option name="closed" value="true" />
@@ -613,7 +608,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714545878762</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Algorithms Selection sort">
+      <option name="closed" value="true" />
+      <created>1714556171996</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1714556171997</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
