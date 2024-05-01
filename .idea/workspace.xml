@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MainBubbleSort.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Algorithms Bubble sort">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/MainSelectionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Operation186.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,6 +159,7 @@
     "Application.MainInterfaceChallenge161.executor": "Run",
     "Application.MainNestedClasses176.executor": "Run",
     "Application.MainNestedClasses180.executor": "Run",
+    "Application.MainSelectionSort.executor": "Run",
     "Application.MainStore178.executor": "Run",
     "Application.MainStore179.executor": "Run",
     "Application.MinAndMaxChallenge.executor": "Run",
@@ -245,14 +245,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00080" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712062494306</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1712062494306</updated>
     </task>
     <task id="LOCAL-00081" summary="commit">
       <option name="closed" value="true" />
@@ -614,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714470835197</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Algorithms Bubble sort">
+      <option name="closed" value="true" />
+      <created>1714545425874</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1714545425874</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -632,7 +632,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="lambda expressions intro" />
     <MESSAGE value="lambda expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions" />
+    <MESSAGE value="Algorithms Bubble sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithms Bubble sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
