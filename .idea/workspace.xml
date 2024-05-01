@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions intro">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/MainBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Operation186.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +153,7 @@
     "Application.Main97AllAboutStrings.executor": "Run",
     "Application.Main98AboutStringMethods.executor": "Run",
     "Application.Main99StringBuilders.executor": "Run",
+    "Application.MainBubbleSort.executor": "Run",
     "Application.MainGenericClassChallenge167.executor": "Run",
     "Application.MainGenerics164.executor": "Run",
     "Application.MainGenericsExtras171.executor": "Run",
@@ -193,10 +196,10 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/shrey/IdeaProjects/WebFluxExamples",
     "onboarding.tips.debug.path": "C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
   <component name="ReadonlyStatusHandler">
@@ -242,14 +245,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00079" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712060179607</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1712060179607</updated>
     </task>
     <task id="LOCAL-00080" summary="commit">
       <option name="closed" value="true" />
@@ -611,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714382212211</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="lambda expressions">
+      <option name="closed" value="true" />
+      <created>1714470835196</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1714470835197</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,7 +631,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="lambda expressions intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions intro" />
+    <MESSAGE value="lambda expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
