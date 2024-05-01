@@ -8,7 +8,7 @@ public class MainSelectionSort {
 
         for (int i = 0; i < numSort.length; i++) {
             System.out.println(Arrays.toString(numSort));
-            for (int j = i; j < numSort.length; j++) {
+            for (int j = i+1; j < numSort.length; j++) {
                 int temp = numSort[i];
                 numSort[i] = numSort[j];
                 numSort[j] = temp;
