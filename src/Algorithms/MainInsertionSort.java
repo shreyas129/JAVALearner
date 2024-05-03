@@ -26,7 +26,7 @@ public class MainInsertionSort {
                 arr[i] = insertNumber;
                 System.out.println(Arrays.toString(arr));
             }
-            System.out.println("-".repeat(length + 5));
+            System.out.println("-".repeat(length * 3));
         }
         System.out.println("The final answer is " + Arrays.toString(arr));
     }
