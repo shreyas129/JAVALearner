@@ -7,7 +7,6 @@
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="modify of Insertion sort">
       <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Operation186.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/MainInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/MainInsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,14 +246,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00086" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712212553589</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1712212553589</updated>
     </task>
     <task id="LOCAL-00087" summary="commit">
       <option name="closed" value="true" />
@@ -616,7 +607,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714731207323</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="modify of Insertion sort">
+      <option name="closed" value="true" />
+      <created>1714812395501</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1714812395501</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
