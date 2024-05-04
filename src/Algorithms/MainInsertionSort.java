@@ -15,15 +15,14 @@ public class MainInsertionSort {
             if (i == 0) {
                 arr[0] = inputNumber;
             } else {
-                int insertNumber = inputNumber;
                 for (int j = 0; j < i; j++) {
-                    if (arr[j] > insertNumber) {
+                    if (arr[j] > inputNumber) {
                         int temp = arr[j];
-                        arr[j] = insertNumber;
-                        insertNumber = temp;
+                        arr[j] = inputNumber;
+                        inputNumber = temp;
                     }
                 }
-                arr[i] = insertNumber;
+                arr[i] = inputNumber;
                 System.out.println(Arrays.toString(arr));
             }
             System.out.println("-".repeat(length * 3));
