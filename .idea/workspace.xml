@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions 2">
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main185LambdaExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -244,14 +245,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00089" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712469389702</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1712469389702</updated>
     </task>
     <task id="LOCAL-00090" summary="commit">
       <option name="closed" value="true" />
@@ -613,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714821920740</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="lambda expressions 3">
+      <option name="closed" value="true" />
+      <created>1714822145279</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1714822145279</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +636,8 @@
     <MESSAGE value="Algorithms Selection sort" />
     <MESSAGE value="modify of Insertion sort" />
     <MESSAGE value="lambda expressions 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions 2" />
+    <MESSAGE value="lambda expressions 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
