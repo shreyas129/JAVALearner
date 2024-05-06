@@ -24,6 +24,7 @@ public class Main190LambdaExpressionsChallenge {
         Arrays.asList(names).forEach(s -> System.out.println(s));
 
         List<String> newList = new ArrayList<>(List.of(names));
+        System.out.println(newList);
     }
 
     public static char getRandomChar(char startChar, char endChar) {
