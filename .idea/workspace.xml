@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions 3">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main190LambdaExpressionsChallenge.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions challenge">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main191MethodReferences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +140,7 @@
     "Application.Main189MiniLambdaChallenge.executor": "Run",
     "Application.Main189MiniLambdaChallenges.executor": "Run",
     "Application.Main190LambdaExpressionsChallenge.executor": "Run",
+    "Application.Main191MethodReferences.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -248,22 +249,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00092" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712502522064</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1712502522064</updated>
-    </task>
-    <task id="LOCAL-00093" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712502553510</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1712502553510</updated>
     </task>
     <task id="LOCAL-00094" summary="commit">
       <option name="closed" value="true" />
@@ -617,7 +602,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714899917085</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="lambda expressions 3">
+      <option name="closed" value="true" />
+      <created>1714997561620</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1714997561620</updated>
+    </task>
+    <task id="LOCAL-00139" summary="lambda expressions challenge">
+      <option name="closed" value="true" />
+      <created>1714997626541</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1714997626541</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -640,7 +641,8 @@
     <MESSAGE value="modify of Insertion sort" />
     <MESSAGE value="lambda expressions 2" />
     <MESSAGE value="lambda expressions 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions 3" />
+    <MESSAGE value="lambda expressions challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
