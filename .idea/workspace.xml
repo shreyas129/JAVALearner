@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="lambda expressions challenge">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main191MethodReferences.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Method References">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/MainMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/testingFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main191MethodReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main191MethodReferences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Comparable.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Algorithms/testingFile.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Car.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Fish.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Movie.java" root0="FORCE_HIGHLIGHTING" />
@@ -161,6 +164,7 @@
     "Application.MainGenericsExtras171.executor": "Run",
     "Application.MainInsertionSort.executor": "Run",
     "Application.MainInterfaceChallenge161.executor": "Run",
+    "Application.MainMergeSort.executor": "Run",
     "Application.MainNestedClasses176.executor": "Run",
     "Application.MainNestedClasses180.executor": "Run",
     "Application.MainSelectionSort.executor": "Debug",
@@ -188,6 +192,7 @@
     "Application.TesterPoint.executor": "Run",
     "Application.TheCharAndBooleanDataTypes.executor": "Run",
     "Application.Worker.executor": "Run",
+    "Application.testingFile.executor": "Run",
     "Maven..executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -249,14 +254,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00094" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712597879029</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1712597879029</updated>
     </task>
     <task id="LOCAL-00095" summary="commit">
       <option name="closed" value="true" />
@@ -618,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714997626541</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Method References">
+      <option name="closed" value="true" />
+      <created>1715166643456</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1715166643456</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -642,7 +647,8 @@
     <MESSAGE value="lambda expressions 2" />
     <MESSAGE value="lambda expressions 3" />
     <MESSAGE value="lambda expressions challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions challenge" />
+    <MESSAGE value="Method References" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method References" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
