@@ -33,7 +33,6 @@ class Node {
 public class MainTreeSort {
     public static void main(String[] args) {
         int arr[] = new int[]{9, 3, 6, 7, 10, 8, 1, 4, 2, 5};
-        boolean justStarted = true;
         Node rootNode = new Node();
         rootNode.setValue(arr[0]);
         for (int numberToInsert : arr) {
