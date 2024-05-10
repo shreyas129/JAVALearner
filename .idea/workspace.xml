@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="MergeSort">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MainTreeSort.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="TreeSort">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main191MethodReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main191MethodReferences.java" afterDir="false" />
     </list>
@@ -169,6 +168,7 @@
     &quot;Application.MainSelectionSort.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MainStore178.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainStore179.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTreeSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinAndMaxChallenge.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinimumElementChallenge.executor&quot;: &quot;Run&quot;,
     &quot;Application.MoreLists132.executor&quot;: &quot;Run&quot;,
@@ -253,22 +253,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00096" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712654888233</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1712654888234</updated>
-    </task>
-    <task id="LOCAL-00097" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712662152521</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1712662152521</updated>
     </task>
     <task id="LOCAL-00098" summary="commit">
       <option name="closed" value="true" />
@@ -622,7 +606,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715246946377</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="MergeSort">
+      <option name="closed" value="true" />
+      <created>1715277817390</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1715277817390</updated>
+    </task>
+    <task id="LOCAL-00143" summary="TreeSort">
+      <option name="closed" value="true" />
+      <created>1715277867182</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1715277867182</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -648,7 +648,8 @@
     <MESSAGE value="lambda expressions challenge" />
     <MESSAGE value="Method References" />
     <MESSAGE value="MergeSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="MergeSort" />
+    <MESSAGE value="TreeSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="TreeSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
