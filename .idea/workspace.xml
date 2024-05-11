@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Method reference Challenge">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main193MethodReferenceChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main194ChainingLambdas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,6 +143,7 @@
     "Application.Main190LambdaExpressionsChallenge.executor": "Run",
     "Application.Main191MethodReferences.executor": "Run",
     "Application.Main193MethodReferenceChallenge.executor": "Run",
+    "Application.Main194ChainingLambdas.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -254,14 +255,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00099" summary="commit">
-      <option name="closed" value="true" />
-      <created>1712926485403</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1712926485408</updated>
     </task>
     <task id="LOCAL-00100" summary="commit">
       <option name="closed" value="true" />
@@ -623,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715352145984</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Method reference Challenge">
+      <option name="closed" value="true" />
+      <created>1715422778450</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1715422778450</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,7 +652,8 @@
     <MESSAGE value="MergeSort" />
     <MESSAGE value="TreeSort" />
     <MESSAGE value="Most Confusing Method references" />
-    <option name="LAST_COMMIT_MESSAGE" value="Most Confusing Method references" />
+    <MESSAGE value="Method reference Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method reference Challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
