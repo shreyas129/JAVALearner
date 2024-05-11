@@ -1,6 +1,9 @@
 package IntellijStarting;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -60,5 +63,31 @@ public class Main194ChainingLambdas {
 
         Predicate<String> combined3 = p3.and(p4).negate();
         System.out.println("Combined3 = " + combined3.test(name));
+
+        record Person195(String firstName, String lastName) {}
+
+        List<Person195> list = new ArrayList<>(Arrays.asList(
+                new Person195("Peter", "Pan"),
+                new Person195("Peter", "PumpkinEater"),
+                new Person195("Minnnie", "Mouse"),
+                new Person195("Mickey", "Mouse")
+        ));
+
+        list.sort(((o1, o2) -> o1.lastName.compareTo(o2.lastName)));
+        list.forEach(System.out::println);
+
+        System.out.println("----------------------------");
+        list.sort(Comparator.comparing(Person195::lastName));
+        list.forEach(System.out::println);
+
+        System.out.println("----------------------------");
+        list.sort(Comparator.comparing(Person195::lastName)
+                        .thenComparing(Person195::firstName));
+        list.forEach(System.out::println);
+
+        System.out.println("----------------------------");
+        list.sort(Comparator.comparing(Person195::lastName)
+                        .thenComparing(Person195::firstName).reversed());
+        list.forEach(System.out::println);
     }
 }

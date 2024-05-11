@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Method reference Challenge">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main194ChainingLambdas.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Chaining lambdas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main194ChainingLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main194ChainingLambdas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,14 +255,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00100" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713012553092</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1713012553092</updated>
     </task>
     <task id="LOCAL-00101" summary="commit">
       <option name="closed" value="true" />
@@ -624,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715422778450</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Chaining lambdas">
+      <option name="closed" value="true" />
+      <created>1715431910285</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1715431910285</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -653,7 +653,8 @@
     <MESSAGE value="TreeSort" />
     <MESSAGE value="Most Confusing Method references" />
     <MESSAGE value="Method reference Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method reference Challenge" />
+    <MESSAGE value="Chaining lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaining lambdas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
