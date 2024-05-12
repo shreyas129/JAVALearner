@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Chaining lambdas">
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Chaining lambdas with Convince methods which are with the Comparator">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main197CollectionsOverview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main194ChainingLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main194ChainingLambdas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +144,7 @@
     "Application.Main191MethodReferences.executor": "Run",
     "Application.Main193MethodReferenceChallenge.executor": "Run",
     "Application.Main194ChainingLambdas.executor": "Run",
+    "Application.Main197CollectionsOverview.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -255,14 +256,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00101" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713195676013</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1713195676013</updated>
     </task>
     <task id="LOCAL-00102" summary="commit">
       <option name="closed" value="true" />
@@ -624,7 +617,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715431910285</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Chaining lambdas with Convince methods which are with the Comparator">
+      <option name="closed" value="true" />
+      <created>1715434860325</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1715434860326</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,7 +655,8 @@
     <MESSAGE value="Most Confusing Method references" />
     <MESSAGE value="Method reference Challenge" />
     <MESSAGE value="Chaining lambdas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chaining lambdas" />
+    <MESSAGE value="Chaining lambdas with Convince methods which are with the Comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaining lambdas with Convince methods which are with the Comparator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
