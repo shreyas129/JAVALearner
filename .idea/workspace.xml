@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections overview">
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections part 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main198DeckOfCardsChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main198DeckOfCardsChallenge.java" afterDir="false" />
     </list>
@@ -257,14 +257,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00105" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713519936204</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1713519936204</updated>
     </task>
     <task id="LOCAL-00106" summary="commit">
       <option name="closed" value="true" />
@@ -626,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716474139502</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Collections overview">
+      <option name="closed" value="true" />
+      <created>1716561728794</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1716561728794</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
