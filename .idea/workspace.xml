@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections part 3">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections Challenge part 1">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Card202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/GameController202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main202CollectionsCardChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/PokerGame202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/PokerHand202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Ranking202.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main198DeckOfCardsChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main198DeckOfCardsChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +116,7 @@
     "Application.EncapsulationChallenge.executor": "Run",
     "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
     "Application.Floor.executor": "Run",
+    "Application.GameController202.executor": "Run",
     "Application.Inheritance.executor": "Run",
     "Application.InheritancePart_1.executor": "Debug",
     "Application.InputCalculator.executor": "Run",
@@ -219,9 +224,13 @@
     <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="IntellijStarting" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="IntellijStarting.test" />
+      <recent name="IntellijStarting" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="IntellijStarting.test" />
+      <recent name="IntellijStarting" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -258,14 +267,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00107" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713764231683</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1713764231685</updated>
     </task>
     <task id="LOCAL-00108" summary="commit">
       <option name="closed" value="true" />
@@ -627,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716812655673</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Collections part 3">
+      <option name="closed" value="true" />
+      <created>1716969913746</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1716969913746</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -661,7 +670,8 @@
     <MESSAGE value="Collections overview silly mistake solved" />
     <MESSAGE value="Collections overview" />
     <MESSAGE value="Collections part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections part 2" />
+    <MESSAGE value="Collections part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections part 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
