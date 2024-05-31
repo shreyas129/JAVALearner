@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections Challenge part 2 last">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main204Hashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/PlayingCard204.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections hash code method">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Contact205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ContactData205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main205SetsAndMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -264,22 +265,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00110" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713962779413</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1713962779415</updated>
-    </task>
-    <task id="LOCAL-00111" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713962842060</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1713962842060</updated>
     </task>
     <task id="LOCAL-00112" summary="commit">
       <option name="closed" value="true" />
@@ -633,7 +618,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717126723909</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="Collections hash code method">
+      <option name="closed" value="true" />
+      <created>1717130608137</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1717130608137</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Collections hash code method">
+      <option name="closed" value="true" />
+      <created>1717130645716</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1717130645716</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,7 +671,8 @@
     <MESSAGE value="Collections part 3" />
     <MESSAGE value="Collections Challenge part 1" />
     <MESSAGE value="Collections Challenge part 2 last" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections Challenge part 2 last" />
+    <MESSAGE value="Collections hash code method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections hash code method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
