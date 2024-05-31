@@ -38,7 +38,6 @@ public class Main204Hashing {
                 System.out.println("Found duplicate for " + c);
             }
         }
-        System.out.println(deck
-        );
+        System.out.println(deck);
     }
 }
