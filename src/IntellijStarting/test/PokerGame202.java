@@ -1,6 +1,7 @@
 package IntellijStarting.test;
 
 import java.util.*;
+import java.util.function.Consumer;
 
 public class PokerGame202 {
     private final List<Card202> deck = Card202.getStandardDeck();
@@ -23,7 +24,14 @@ public class PokerGame202 {
 
         deal();
         System.out.println("------------------------");
-        pokerHands.forEach(System.out::println);
+        Consumer<PokerHand202> checkHand = PokerHand202::evalHand;
+        pokerHands.forEach(checkHand.andThen(System.out::println));
+
+        int cardsDealt = playerCount * cardsInHand;
+        int cardsRemaining = deck.size() - cardsDealt;
+        remainingCards = new ArrayList<>(Collections.nCopies(cardsRemaining, null));
+        remainingCards.replaceAll(c -> deck.get(cardsDealt + remainingCards.indexOf(c)));
+        Card202.printDeck(remainingCards, "Remaining cards", 2);
     }
 
     private void deal() {
