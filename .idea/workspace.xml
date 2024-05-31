@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections Code setup Challenge Contacts">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Contact206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/ContactData206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main206SetsAndMaps.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections Sets and HashSets Contacts&#10;Part 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main206SetsAndMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main206SetsAndMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,14 +265,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00113" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713969931559</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1713969931559</updated>
     </task>
     <task id="LOCAL-00114" summary="commit">
       <option name="closed" value="true" />
@@ -636,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717133008736</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Collections Sets and HashSets Contacts&#10;Part 1">
+      <option name="closed" value="true" />
+      <created>1717135664356</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1717135664356</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,7 +649,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="lambda expressions intro" />
     <MESSAGE value="lambda expressions" />
     <MESSAGE value="Algorithms Bubble sort" />
@@ -676,7 +673,8 @@
     <MESSAGE value="Collections hash code method" />
     <MESSAGE value="Collections" />
     <MESSAGE value="Collections Code setup Challenge Contacts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections Code setup Challenge Contacts" />
+    <MESSAGE value="Collections Sets and HashSets Contacts&#10;Part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections Sets and HashSets Contacts&#10;Part 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
