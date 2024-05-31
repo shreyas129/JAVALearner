@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections hash code method">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Contact205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/ContactData205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main205SetsAndMaps.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="Collections Code setup Challenge Contacts">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Contact206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/ContactData206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main206SetsAndMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,6 +150,8 @@
     "Application.Main197CollectionsOverview.executor": "Run",
     "Application.Main198DeckOfCardsChallenge.executor": "Run",
     "Application.Main204Hashing.executor": "Run",
+    "Application.Main205SetsAndMaps.executor": "Run",
+    "Application.Main206SetsAndMaps.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -227,8 +229,8 @@
       <recent name="IntellijStarting" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="IntellijStarting.test" />
       <recent name="IntellijStarting" />
+      <recent name="IntellijStarting.test" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -265,14 +267,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00112" summary="commit">
-      <option name="closed" value="true" />
-      <created>1713968340504</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1713968340505</updated>
     </task>
     <task id="LOCAL-00113" summary="commit">
       <option name="closed" value="true" />
@@ -634,7 +628,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717130645716</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="Collections Code setup Challenge Contacts">
+      <option name="closed" value="true" />
+      <created>1717133008736</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1717133008736</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -672,7 +674,9 @@
     <MESSAGE value="Collections Challenge part 1" />
     <MESSAGE value="Collections Challenge part 2 last" />
     <MESSAGE value="Collections hash code method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections hash code method" />
+    <MESSAGE value="Collections" />
+    <MESSAGE value="Collections Code setup Challenge Contacts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections Code setup Challenge Contacts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
