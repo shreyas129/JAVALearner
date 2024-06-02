@@ -10,27 +10,27 @@ public class TaskData208 {
             Infrastructure, DB Access, Medium
             Infrastructure, Security, High
             Infrastructure, Password Policy, Medium
-            Infrastructure, Task Table, Medium
-            Infrastructure, Employee Table, Medium
-            Infrastructure, Cross Reference Tables, High
-            Infrastructure, Encryption Policy, High
-            Infrastructure, Write Views, Low
-            Infrastructure, Set Up Users, Low
-            Infrastructure, Set Up Access Policy, Low
+            Data Design, Task Table, Medium
+            Data Design, Employee Table, Medium
+            Data Design, Cross Reference Tables, High
+            Data Design, Encryption Policy, High
+            Data Access, Write Views, Low
+            Data Access, Set Up Users, Low
+            Data Access, Set Up Access Policy, Low
             """, annsTasks = """
             Infrastructure, Security, High, In Progress
-            Infrastructure, Password Policy, Medium, In Progress
-            Infrastructure, Cloud solutions	 Medium, In Progress
-            Infrastructure, Encryption Policy, High
-            Infrastructure, Project Table, Medium
-            Infrastructure, Write Views	Low, In Progress
+            Infrastructure, Password Policy,Medium, In Progress
+            Research, Cloud solutions, Medium, In Progress
+            Data Design, Encryption Policy, High
+            Data Design, Project Table, Medium
+            Data Access, Write Views, Low, In Progress
             """, bobsTasks = """
-            Infrastructure Security, High, In Progress
-            Infrastructure Password Policy, Medium
-            Infrastructure Encryption Policy, High
-            Infrastructure Write Views, Low, In Progress
+            Infrastructure, Security, High, In Progress
+            Infrastructure, Password Policy, Medium
+            Data Design, Encryption Policy, High
+            Data Access, Write Views, Low, In Progress
             """, carolsTasks = """
-            Infrastructure, Infrastructure, Infrastructure, Infrastructure
+            Infrastructure, Logging, High, In Progress
             Infrastructure, DB Access, Medium
             Infrastructure, Password Policy, Medium
             Data Design, Task Table, High
@@ -39,7 +39,8 @@ public class TaskData208 {
 
     public static Set<Task208> getTasks(String owner) {
         Set<Task208> taskList = new HashSet<>();
-        String user = "ann,bob,carol".contains(owner.toLowerCase()) ? owner : null;
+        String user = ("ann,bob,carol".contains(owner.toLowerCase())) ? owner : null;
+
         String selectedList = switch (owner.toLowerCase()) {
             case "ann" -> annsTasks;
             case "bob" -> bobsTasks;
@@ -51,9 +52,9 @@ public class TaskData208 {
             String[] data = taskData.split(",");
             Arrays.asList(data).replaceAll(String::trim);
 
-            Priority208 priority = Priority208.valueOf(data[2].toUpperCase());
             Status208 status = (data.length <= 3) ? Status208.IN_QUEUE : Status208.valueOf(data[3].toUpperCase().replace(' ', '_'));
 
+            Priority208 priority = Priority208.valueOf(data[2].toUpperCase());
             taskList.add(new Task208(data[0], data[1], user, priority, status));
         }
         return taskList;
