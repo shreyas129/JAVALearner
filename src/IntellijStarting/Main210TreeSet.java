@@ -44,5 +44,46 @@ public class Main210TreeSet {
         copiedSet.forEach(System.out::println);
         System.out.println("----------------------------");
 
+        Contact206 daffy = new Contact206("Daffy Duck");
+        Contact206 daisy = new Contact206("Daisy Duck");
+        Contact206 snoopy = new Contact206("Snoopy");
+        Contact206 archie = new Contact206("Archie");
+
+        for (Contact206 c : List.of(daffy, daisy, daisy, snoopy)) {
+            System.out.printf("ceiling(%s)=%s%n", c.getName(), fullSet.ceiling(c));
+            System.out.printf("higher(%s)=%s%n", c.getName(), fullSet.higher(c));
+        }
+        System.out.println("-----------------------------");
+
+        for (Contact206 c : List.of(daffy, daisy, first, archie)) {
+            System.out.printf("floor(%s)=%s%n", c.getName(), fullSet.floor(c));
+            System.out.printf("lower(%s)=%s%n", c.getName(), fullSet.lower(c));
+        }
+        System.out.println("-----------------------------");
+
+        NavigableSet<Contact206> descendingSet = fullSet.descendingSet();
+        descendingSet.forEach(System.out::println);
+        System.out.println("------------------------------");
+
+        Contact206 lastContact = descendingSet.pollLast();
+        System.out.println("Removed " + lastContact);
+        descendingSet.forEach(System.out::println);
+        System.out.println("-------------------------------");
+
+        fullSet.forEach(System.out::println);
+        System.out.println("-------------------------------");
+
+        Contact206 marion = new Contact206("Maid Marion");
+        var headSet = fullSet.headSet(marion, true);
+        headSet.forEach(System.out::println);
+        System.out.println("-------------------------------");
+
+        var tailSet = fullSet.tailSet(marion, false);
+        tailSet.forEach(System.out::println);
+        System.out.println("-------------------------------");
+
+        Contact206 linus = new Contact206("Linus Van Pelt");
+        var subset = fullSet.subSet(linus, false, marion, true);
+        subset.forEach(System.out::println);
     }
 }
