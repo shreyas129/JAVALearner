@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="TreeSet part last done">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="TreeSet challenge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +61,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Comparable.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$USER_HOME$/AppData/Local/Temp/5ded2b24-aebf-47ac-a445-e02220b584d2_Source-code-Java-Collections-Set-Operations-Challenge.zip.4d2/SetOperationsChallenge/src/dev/lpa/TaskData.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/AppData/Local/Temp/f07deb72-ae6d-458e-a62e-85b5f133cf84_Source-code-Java-Collections-Set-Operations-Challenge.zip.f84/SetOperationsChallenge/src/dev/lpa/TaskData.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Algorithms/testingFile.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Car.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/Fish.java" root0="SKIP_INSPECTION" />
@@ -75,6 +74,7 @@
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/DigonalStar.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/InputCalculator.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/LargestPrime.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/MinAndMaxChallenge.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/PaintJob.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/IntellijStarting/test/ReadingUserInputChallenge.java" root0="SKIP_INSPECTION" />
@@ -97,6 +97,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Album45.executor": "Run",
     "Application.ArrayListChallenge.executor": "Run",
     "Application.ArrayReferences.executor": "Run",
@@ -271,14 +272,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00121" summary="commit">
-      <option name="closed" value="true" />
-      <created>1714370970644</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1714370970644</updated>
     </task>
     <task id="LOCAL-00122" summary="commit">
       <option name="closed" value="true" />
@@ -640,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717481504939</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="TreeSet challenge">
+      <option name="closed" value="true" />
+      <created>1717512828573</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1717512828573</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -655,7 +656,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lambda expressions challenge" />
     <MESSAGE value="Method References" />
     <MESSAGE value="MergeSort" />
     <MESSAGE value="TreeSort" />
@@ -680,7 +680,8 @@
     <MESSAGE value="Set Operations Challenge complete" />
     <MESSAGE value="LinkedHashSet and TreeSet part 1" />
     <MESSAGE value="TreeSet part last done" />
-    <option name="LAST_COMMIT_MESSAGE" value="TreeSet part last done" />
+    <MESSAGE value="TreeSet challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="TreeSet challenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -693,6 +694,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
