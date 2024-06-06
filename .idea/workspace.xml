@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="TreeSet challenge">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main214Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +156,7 @@
     "Application.Main208SetOperationsChallenge.executor": "Run",
     "Application.Main210TreeSet.executor": "Run",
     "Application.Main212BookingAgent.executor": "Run",
+    "Application.Main214Map.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
