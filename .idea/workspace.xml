@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="maps part 1">
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="maps part 2">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main216MapViews.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main214Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main214Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Contact206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Contact206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +158,7 @@
     &quot;Application.Main210TreeSet.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main212BookingAgent.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main214Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main216MapViews.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
@@ -273,14 +275,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00123" summary="commit">
-      <option name="closed" value="true" />
-      <created>1714380291314</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1714380291315</updated>
     </task>
     <task id="LOCAL-00124" summary="lambda expressions intro">
       <option name="closed" value="true" />
@@ -642,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717660501265</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="maps part 2">
+      <option name="closed" value="true" />
+      <created>1717767899699</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1717767899699</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MergeSort" />
     <MESSAGE value="TreeSort" />
     <MESSAGE value="Most Confusing Method references" />
     <MESSAGE value="Method reference Challenge" />
@@ -682,7 +683,8 @@
     <MESSAGE value="TreeSet part last done" />
     <MESSAGE value="TreeSet challenge" />
     <MESSAGE value="maps part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="maps part 1" />
+    <MESSAGE value="maps part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="maps part 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
