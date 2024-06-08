@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="maps part 2">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main216MapViews.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="HashMap challenge part 1">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Contact206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Contact206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,14 +274,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00124" summary="lambda expressions intro">
-      <option name="closed" value="true" />
-      <created>1714382212211</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1714382212211</updated>
     </task>
     <task id="LOCAL-00125" summary="lambda expressions">
       <option name="closed" value="true" />
@@ -644,7 +635,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717767899699</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="maps part 2 Views">
+      <option name="closed" value="true" />
+      <created>1717859478473</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1717859478473</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -659,7 +658,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TreeSort" />
     <MESSAGE value="Most Confusing Method references" />
     <MESSAGE value="Method reference Challenge" />
     <MESSAGE value="Chaining lambdas" />
@@ -684,7 +682,8 @@
     <MESSAGE value="TreeSet challenge" />
     <MESSAGE value="maps part 1" />
     <MESSAGE value="maps part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="maps part 2" />
+    <MESSAGE value="maps part 2 Views" />
+    <option name="LAST_COMMIT_MESSAGE" value="maps part 2 Views" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
