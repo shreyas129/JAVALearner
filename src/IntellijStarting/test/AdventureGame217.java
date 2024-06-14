@@ -18,9 +18,16 @@ public class AdventureGame217 {
     private String lastPlace;
     private Map<String, Location217> adventureMap = new HashMap<>();
 
-    public AdventureGame217() {}
+    public AdventureGame217() {
+        this(null);
+    }
 
-    public AdventureGame217(String customLocations) {}
+    public AdventureGame217(String customLocations) {
+        loadLocations(GAME_LOCATIONS);
+        if (customLocations != null) {
+            loadLocations(customLocations);
+        }
+    }
 
     private enum Compass217 {
         E, N, S, W;
@@ -42,7 +49,7 @@ public class AdventureGame217 {
             Location217 location = new Location217(parts[1], nextPlaces);
             adventureMap.put(parts[0], location);
         }
-        adventureMap.forEach((k, v) -> System.out.printf("%s:%s%n", k, v));
+//        adventureMap.forEach((k, v) -> System.out.printf("%s:%s%n", k, v));
     }
 
     private Map<Compass217, String> loadDirections(String nextPlaces) {
@@ -59,5 +66,33 @@ public class AdventureGame217 {
         }
 
         return directions;
+    }
+
+    private void visit(Location217 location) {
+        System.out.printf("*** You're standing %s *** %n", location.description);
+        System.out.println("\tFrom here you can see:");
+
+        location.nextPlaces.forEach((k, v) -> System.out.printf("\t\u2022 A %s to the %s (%S) %n", v, k.getString(), k));
+
+        System.out.println("Select Your Compass (Q to quit) >> ");
+    }
+
+    public void move(String direction) {
+        var nextPlaces = adventureMap.get(lastPlace).nextPlaces;
+        String nextPlace = null;
+        if ("ENSW".contains(direction)) {
+            nextPlace = nextPlaces.get(Compass217.valueOf(direction));
+            if (nextPlace != null) {
+                play(nextPlace);
+            }
+        } else System.out.println("!! Invalid direction, try again!!");
+    }
+
+    public void play(String location) {
+        if (adventureMap.containsKey(location)) {
+            Location217 next = adventureMap.get(location);
+            lastPlace = location;
+            visit(next);
+        } else System.out.println(location + " is an invalid location");
     }
 }

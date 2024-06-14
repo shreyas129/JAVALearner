@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="HashMap challenge part 1">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="HashMap challenge part 2 last">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main217AdventureGameChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212$Seat212.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,139 +98,140 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Album45.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayReferences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraysAndArrayLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraysChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoBoxingAndAutoUnboxingChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoBoxingChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Autoboxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassesChallengeAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompositionChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorChallengeCustomer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigonalStar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulationChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloatingPointPrecisionAndAChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GameController202.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InheritancePart_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InputCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lamp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main101Composition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main104Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main111PolymorphismChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main113BillBurgerChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main118Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main120UsingArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main125VarArgs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main128TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main128TwoDimensionalArrayAndMultiDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main131ArrayLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main132MoreLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main137LinkedLists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main146Enum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main150AbstractClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main153AbstractChallengeStore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main155Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main169Comparing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main174GenericsAndWildCardAndTypeErasureAndUpperBoundsAndLowerBoundsChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main182TheLocalAndAnonymousClassChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main184LambdaIntro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main185LambdaExpressions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main189MiniLambdaChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main189MiniLambdaChallenges.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main190LambdaExpressionsChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main191MethodReferences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main193MethodReferenceChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main194ChainingLambdas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main197CollectionsOverview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main198DeckOfCardsChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main204Hashing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main205SetsAndMaps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main206SetsAndMaps.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main208SetOperationsChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main210TreeSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main212BookingAgent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main214Map.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main216MapViews.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main36Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main37Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main39Printer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main40Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main45Album.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main46Bank.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main88Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main91Object.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main92InheritanceChallenge1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main96StringMultiLine.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main97AllAboutStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main98AboutStringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main99StringBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainGenericClassChallenge167.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainGenerics164.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainGenericsExtras171.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainInsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainInterfaceChallenge161.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainMergeSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MainNestedClasses176.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainNestedClasses180.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainSelectionSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MainStore178.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainStore179.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTreeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinAndMaxChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumElementChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoreLists132.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextPolymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOPcarChaBhau.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POJOStudent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PaintJob.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParsingValuesAndReadingInputUsingSystemConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadingUserInputChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReverseArrayChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunMethods181.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesterPoint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheCharAndBooleanDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Worker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.testingFile.executor&quot;: &quot;Run&quot;,
-    &quot;Maven..executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrey/IdeaProjects/WebFluxExamples&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Album45.executor": "Run",
+    "Application.ArrayListChallenge.executor": "Run",
+    "Application.ArrayReferences.executor": "Run",
+    "Application.ArraysAndArrayLists.executor": "Run",
+    "Application.ArraysChallenge.executor": "Run",
+    "Application.AutoBoxingAndAutoUnboxingChallenge.executor": "Run",
+    "Application.AutoBoxingChallenge.executor": "Run",
+    "Application.Autoboxing.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.ClassesChallengeAccount.executor": "Run",
+    "Application.ComplexNumber.executor": "Run",
+    "Application.CompositionChallenge.executor": "Run",
+    "Application.ConstructorChallengeCustomer.executor": "Run",
+    "Application.DigonalStar.executor": "Run",
+    "Application.EncapsulationChallenge.executor": "Run",
+    "Application.FloatingPointPrecisionAndAChallenge.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.GameController202.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InheritancePart_1.executor": "Debug",
+    "Application.InputCalculator.executor": "Run",
+    "Application.Lamp.executor": "Run",
+    "Application.LargestPrime.executor": "Run",
+    "Application.LinkedListChallenge.executor": "Run",
+    "Application.Main101Composition.executor": "Run",
+    "Application.Main104Encapsulation.executor": "Run",
+    "Application.Main111PolymorphismChallenge.executor": "Run",
+    "Application.Main113BillBurgerChallenge.executor": "Run",
+    "Application.Main118Arrays.executor": "Run",
+    "Application.Main120UsingArrays.executor": "Run",
+    "Application.Main125VarArgs.executor": "Run",
+    "Application.Main128TwoDimensionalArray.executor": "Run",
+    "Application.Main128TwoDimensionalArrayAndMultiDimensionalArray.executor": "Run",
+    "Application.Main131ArrayLists.executor": "Run",
+    "Application.Main132MoreLists.executor": "Run",
+    "Application.Main137LinkedLists.executor": "Run",
+    "Application.Main146Enum.executor": "Run",
+    "Application.Main150AbstractClasses.executor": "Run",
+    "Application.Main153AbstractChallengeStore.executor": "Run",
+    "Application.Main155Interfaces.executor": "Run",
+    "Application.Main169Comparing.executor": "Run",
+    "Application.Main174GenericsAndWildCardAndTypeErasureAndUpperBoundsAndLowerBoundsChallenge.executor": "Run",
+    "Application.Main182TheLocalAndAnonymousClassChallenge.executor": "Run",
+    "Application.Main184LambdaIntro.executor": "Run",
+    "Application.Main185LambdaExpressions.executor": "Run",
+    "Application.Main189MiniLambdaChallenge.executor": "Run",
+    "Application.Main189MiniLambdaChallenges.executor": "Run",
+    "Application.Main190LambdaExpressionsChallenge.executor": "Run",
+    "Application.Main191MethodReferences.executor": "Run",
+    "Application.Main193MethodReferenceChallenge.executor": "Run",
+    "Application.Main194ChainingLambdas.executor": "Run",
+    "Application.Main197CollectionsOverview.executor": "Run",
+    "Application.Main198DeckOfCardsChallenge.executor": "Run",
+    "Application.Main204Hashing.executor": "Run",
+    "Application.Main205SetsAndMaps.executor": "Run",
+    "Application.Main206SetsAndMaps.executor": "Run",
+    "Application.Main208SetOperationsChallenge.executor": "Run",
+    "Application.Main210TreeSet.executor": "Run",
+    "Application.Main212BookingAgent.executor": "Run",
+    "Application.Main214Map.executor": "Run",
+    "Application.Main216MapViews.executor": "Run",
+    "Application.Main217AdventureGameChallenge.executor": "Run",
+    "Application.Main36Circle.executor": "Run",
+    "Application.Main37Rectangle.executor": "Run",
+    "Application.Main39Printer.executor": "Run",
+    "Application.Main40Car.executor": "Run",
+    "Application.Main45Album.executor": "Run",
+    "Application.Main46Bank.executor": "Debug",
+    "Application.Main88Inheritance.executor": "Run",
+    "Application.Main91Object.executor": "Run",
+    "Application.Main92InheritanceChallenge.executor": "Run",
+    "Application.Main92InheritanceChallenge1.executor": "Run",
+    "Application.Main96StringMultiLine.executor": "Run",
+    "Application.Main97AllAboutStrings.executor": "Run",
+    "Application.Main98AboutStringMethods.executor": "Run",
+    "Application.Main99StringBuilders.executor": "Run",
+    "Application.MainBubbleSort.executor": "Run",
+    "Application.MainGenericClassChallenge167.executor": "Run",
+    "Application.MainGenerics164.executor": "Run",
+    "Application.MainGenericsExtras171.executor": "Run",
+    "Application.MainInsertionSort.executor": "Run",
+    "Application.MainInterfaceChallenge161.executor": "Run",
+    "Application.MainMergeSort.executor": "Debug",
+    "Application.MainNestedClasses176.executor": "Run",
+    "Application.MainNestedClasses180.executor": "Run",
+    "Application.MainSelectionSort.executor": "Debug",
+    "Application.MainStore178.executor": "Run",
+    "Application.MainStore179.executor": "Run",
+    "Application.MainTreeSort.executor": "Run",
+    "Application.MapTest.executor": "Run",
+    "Application.MinAndMaxChallenge.executor": "Run",
+    "Application.MinimumElementChallenge.executor": "Run",
+    "Application.MoreLists132.executor": "Run",
+    "Application.NextPolymorphism.executor": "Run",
+    "Application.OOPcar.executor": "Run",
+    "Application.OOPcarChaBhau.executor": "Run",
+    "Application.POJOStudent.executor": "Run",
+    "Application.PaintJob.executor": "Run",
+    "Application.ParsingValuesAndReadingInputUsingSystemConsole.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.ReadingUserInputChallenge.executor": "Run",
+    "Application.ReverseArray.executor": "Debug",
+    "Application.ReverseArrayChallenge.executor": "Run",
+    "Application.RunMethods181.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.TesterPoint.executor": "Run",
+    "Application.TheCharAndBooleanDataTypes.executor": "Run",
+    "Application.Worker.executor": "Run",
+    "Application.testingFile.executor": "Run",
+    "Maven..executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrey/IdeaProjects/WebFluxExamples",
+    "onboarding.tips.debug.path": "C:/Users/shrey/IdeaProjects/JAVALearner/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
@@ -274,14 +279,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00125" summary="lambda expressions">
-      <option name="closed" value="true" />
-      <created>1714470835196</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1714470835197</updated>
     </task>
     <task id="LOCAL-00126" summary="Algorithms Bubble sort">
       <option name="closed" value="true" />
@@ -643,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717859478473</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="HashMap challenge part 1">
+      <option name="closed" value="true" />
+      <created>1717864622966</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1717864622966</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -658,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Most Confusing Method references" />
     <MESSAGE value="Method reference Challenge" />
     <MESSAGE value="Chaining lambdas" />
     <MESSAGE value="Chaining lambdas with Convince methods which are with the Comparator" />
@@ -683,7 +687,8 @@
     <MESSAGE value="maps part 1" />
     <MESSAGE value="maps part 2" />
     <MESSAGE value="maps part 2 Views" />
-    <option name="LAST_COMMIT_MESSAGE" value="maps part 2 Views" />
+    <MESSAGE value="HashMap challenge part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap challenge part 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
