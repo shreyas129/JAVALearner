@@ -19,14 +19,11 @@ public class AdventureGame217 {
     private Map<String, Location217> adventureMap = new HashMap<>();
 
     public AdventureGame217() {
-        this(null);
+        this(GAME_LOCATIONS);
     }
 
     public AdventureGame217(String customLocations) {
-        loadLocations(GAME_LOCATIONS);
-        if (customLocations != null) {
-            loadLocations(customLocations);
-        }
+        loadLocations(customLocations);
     }
 
     private enum Compass217 {

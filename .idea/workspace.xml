@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="HashMap AdventureGame challenge part 2 last">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main219SortedMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Student219.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="SortedMaps NavigableMap and TreeMap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +158,7 @@
     "Application.Main212BookingAgent.executor": "Run",
     "Application.Main214Map.executor": "Run",
     "Application.Main216MapViews.executor": "Run",
-    "Application.Main217AdventureGameChallenge.executor": "Run",
+    "Application.Main217AdventureGameChallenge.executor": "Debug",
     "Application.Main219SortedMaps.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
@@ -277,14 +276,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Algorithms Selection sort">
-      <option name="closed" value="true" />
-      <created>1714545878762</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1714545878762</updated>
     </task>
     <task id="LOCAL-00128" summary="Algorithms Selection sort">
       <option name="closed" value="true" />
@@ -646,7 +637,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718359336380</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="SortedMaps NavigableMap and TreeMap">
+      <option name="closed" value="true" />
+      <created>1718385020037</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1718385020037</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -661,7 +660,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chaining lambdas" />
     <MESSAGE value="Chaining lambdas with Convince methods which are with the Comparator" />
     <MESSAGE value="Collections overview silly mistake solved" />
     <MESSAGE value="Collections overview" />
@@ -686,7 +684,8 @@
     <MESSAGE value="maps part 2 Views" />
     <MESSAGE value="HashMap challenge part 1" />
     <MESSAGE value="HashMap AdventureGame challenge part 2 last" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap AdventureGame challenge part 2 last" />
+    <MESSAGE value="SortedMaps NavigableMap and TreeMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortedMaps NavigableMap and TreeMap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -704,6 +703,11 @@
           <url>file://$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java</url>
           <line>74</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
