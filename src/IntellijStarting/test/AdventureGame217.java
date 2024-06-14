@@ -16,7 +16,7 @@ public class AdventureGame217 {
             stream,near a stream with a rocky bed,W:valley, N:well house
             """;
     private String lastPlace;
-    private Map<String, Location217> adventureMap = new HashMap<>();
+    private final Map<String, Location217> adventureMap = new HashMap<>();
 
     public AdventureGame217() {
         this(GAME_LOCATIONS);
