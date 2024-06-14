@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="HashMap challenge part 2 last">
-      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/test/Main217AdventureGameChallenge.java" afterDir="false" />
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="HashMap AdventureGame challenge part 2 last">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main219SortedMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Student219.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Main212BookingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212$Seat212.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +160,7 @@
     "Application.Main214Map.executor": "Run",
     "Application.Main216MapViews.executor": "Run",
     "Application.Main217AdventureGameChallenge.executor": "Run",
+    "Application.Main219SortedMaps.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -279,14 +277,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Algorithms Bubble sort">
-      <option name="closed" value="true" />
-      <created>1714545425874</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1714545425874</updated>
     </task>
     <task id="LOCAL-00127" summary="Algorithms Selection sort">
       <option name="closed" value="true" />
@@ -648,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717864622966</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="HashMap AdventureGame challenge part 2 last">
+      <option name="closed" value="true" />
+      <created>1718359336379</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1718359336380</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -663,7 +661,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Method reference Challenge" />
     <MESSAGE value="Chaining lambdas" />
     <MESSAGE value="Chaining lambdas with Convince methods which are with the Comparator" />
     <MESSAGE value="Collections overview silly mistake solved" />
@@ -688,7 +685,8 @@
     <MESSAGE value="maps part 2" />
     <MESSAGE value="maps part 2 Views" />
     <MESSAGE value="HashMap challenge part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap challenge part 1" />
+    <MESSAGE value="HashMap AdventureGame challenge part 2 last" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap AdventureGame challenge part 2 last" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
