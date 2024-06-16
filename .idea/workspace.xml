@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="SortedMaps NavigableMap and TreeMap">
+    <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main219SortedMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main219SortedMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,6 +218,7 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "main",
+    "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
@@ -276,22 +277,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00128" summary="Algorithms Selection sort">
-      <option name="closed" value="true" />
-      <created>1714556171996</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1714556171997</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Algorithms Selection sort">
-      <option name="closed" value="true" />
-      <created>1714583447728</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1714583447728</updated>
     </task>
     <task id="LOCAL-00130" summary="modify of Insertion sort">
       <option name="closed" value="true" />
@@ -645,7 +630,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718385020037</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="modification of AdventureGame217 constructors to simple code">
+      <option name="closed" value="true" />
+      <created>1718387209432</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1718387209432</updated>
+    </task>
+    <task id="LOCAL-00175" summary="modification of AdventureGame217 again to final variable">
+      <option name="closed" value="true" />
+      <created>1718387287002</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1718387287002</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -660,8 +661,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chaining lambdas with Convince methods which are with the Comparator" />
-    <MESSAGE value="Collections overview silly mistake solved" />
     <MESSAGE value="Collections overview" />
     <MESSAGE value="Collections part 2" />
     <MESSAGE value="Collections part 3" />
@@ -685,7 +684,9 @@
     <MESSAGE value="HashMap challenge part 1" />
     <MESSAGE value="HashMap AdventureGame challenge part 2 last" />
     <MESSAGE value="SortedMaps NavigableMap and TreeMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortedMaps NavigableMap and TreeMap" />
+    <MESSAGE value="modification of AdventureGame217 constructors to simple code" />
+    <MESSAGE value="modification of AdventureGame217 again to final variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification of AdventureGame217 again to final variable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,11 +704,6 @@
           <url>file://$PROJECT_DIR$/src/IntellijStarting/test/Theatre212.java</url>
           <line>74</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/IntellijStarting/test/AdventureGame217.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
