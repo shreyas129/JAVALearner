@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597cc6f5-0b53-4555-a522-d6f9d20ebc65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/IntellijStarting/Main221EnumCollections.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntellijStarting/Main219SortedMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntellijStarting/Main219SortedMaps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Class.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Comparable.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Algorithms/testingFile.java" root0="FORCE_HIGHLIGHTING" />
@@ -160,6 +161,7 @@
     "Application.Main216MapViews.executor": "Run",
     "Application.Main217AdventureGameChallenge.executor": "Debug",
     "Application.Main219SortedMaps.executor": "Run",
+    "Application.Main221EnumCollections.executor": "Run",
     "Application.Main36Circle.executor": "Run",
     "Application.Main37Rectangle.executor": "Run",
     "Application.Main39Printer.executor": "Run",
@@ -227,7 +229,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.reader.mode"
   }
 }]]></component>
   <component name="ReadonlyStatusHandler">
@@ -277,14 +279,6 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1695903742028</updated>
-    </task>
-    <task id="LOCAL-00130" summary="modify of Insertion sort">
-      <option name="closed" value="true" />
-      <created>1714730986596</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1714730986596</updated>
     </task>
     <task id="LOCAL-00131" summary="modify of Insertion sort">
       <option name="closed" value="true" />
@@ -646,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718387287002</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="Working with treeMap(NavigableMap) methods SortedMaps">
+      <option name="closed" value="true" />
+      <created>1718520717641</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1718520717641</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -661,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Collections overview" />
     <MESSAGE value="Collections part 2" />
     <MESSAGE value="Collections part 3" />
     <MESSAGE value="Collections Challenge part 1" />
@@ -686,7 +687,8 @@
     <MESSAGE value="SortedMaps NavigableMap and TreeMap" />
     <MESSAGE value="modification of AdventureGame217 constructors to simple code" />
     <MESSAGE value="modification of AdventureGame217 again to final variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="modification of AdventureGame217 again to final variable" />
+    <MESSAGE value="Working with treeMap(NavigableMap) methods SortedMaps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with treeMap(NavigableMap) methods SortedMaps" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
