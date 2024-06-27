@@ -83,12 +83,12 @@ public class Main222Store {
         aisleInventory = new EnumMap<>(Category222.class);
         for (InventoryItem222 item : inventory.values()) {
             Category222 aisle = item.getProduct().catagory();
-             Map<String, InventoryItem222> productMap = aisleInventory.get(aisle);
-             if (productMap == null) {
-                 productMap = new TreeMap<>();
-             }
-             productMap.put(item.getProduct().name(), item);
-             aisleInventory.putIfAbsent(aisle, productMap);
+            Map<String, InventoryItem222> productMap = aisleInventory.get(aisle);
+            if (productMap == null) {
+                productMap = new TreeMap<>();
+            }
+            productMap.put(item.getProduct().name(), item);
+            aisleInventory.putIfAbsent(aisle, productMap);
         }
     }
 

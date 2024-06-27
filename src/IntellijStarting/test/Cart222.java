@@ -6,6 +6,7 @@ import java.util.Map;
 
 public class Cart222 {
     enum CartType222 {PHYSICAL, VIRTUAL}
+
     private static int lastId = 1;
     private int id;
     private LocalDate cartDate;
