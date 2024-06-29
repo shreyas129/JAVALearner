@@ -1,5 +1,6 @@
 package IntellijStarting.test;
 
+import java.time.LocalDate;
 import java.util.*;
 
 public class Main222Store {
@@ -18,6 +19,11 @@ public class Main222Store {
 
         myStore.manageStoreCarts();
         myStore.listProductsByCatagory(false, true);
+
+        myStore.carts.forEach(System.out::println);
+        myStore.abandonCarts();
+        myStore.listProductsByCatagory(false, true);
+        myStore.carts.forEach(System.out::println);
     }
 
     private void manageStoreCarts() {
@@ -31,13 +37,55 @@ public class Main222Store {
         System.out.println(cart1);
         cart1.removeItem(aisleInventory.get(Category222.PRODUCE).get("pear"), 2);
         System.out.println(cart1);
+
+        Cart222 cart2 = new Cart222(Cart222.CartType222.VIRTUAL, 1);
+        carts.add(cart2);
+        cart2.addItem(inventory.get("L103"), 20);
+        cart2.addItem(inventory.get("B100"), 10);
+        System.out.println(cart2);
+
+        Cart222 cart3 = new Cart222(Cart222.CartType222.VIRTUAL, 0);
+        carts.add(cart3);
+        cart3.addItem(inventory.get("R777"), 998);
+        System.out.println(cart3);
+        if (!checkOutCart(cart3)) {
+            System.out.println("Something went wrong, could not check out");
+        }
+
+        Cart222 cart4 = new Cart222(Cart222.CartType222.PHYSICAL, 0);
+        carts.add(cart4);
+        cart4.addItem(aisleInventory.get(Category222.BEVERAGE).get("tea"), 5);
+        System.out.println(cart4);
     }
 
     private boolean checkOutCart(Cart222 cart) {
-        return false;
+        for (var cartItem : cart.getProducts().entrySet()) {
+            var item = inventory.get(cartItem.getKey());
+            int qty = cartItem.getValue();
+            if (!item.sellItem(qty)) return false;
+        }
+        cart.printSalesSlip(inventory);
+        carts.remove(cart);
+        return true;
     }
 
     private void abandonCarts() {
+        int dayOfYear = LocalDate.now().getDayOfYear();
+        Cart222 lastCart = null;
+        for (Cart222 cart : carts) {
+            if (cart.getCartDate().getDayOfYear() == dayOfYear) {
+                break;
+            }
+            lastCart = cart;
+        }
+        var oldCarts = carts.headSet(lastCart, true);
+        Cart222 abandonCart = null;
+        while ((abandonCart = oldCarts.pollFirst()) != null) {
+            for (String sku : abandonCart.getProducts().keySet()) {
+                InventoryItem222 item = inventory.get(sku);
+                item.releaseItem(abandonCart.getProducts().get(sku));
+            }
+        }
     }
 
     private void listProductsByCatagory() {
