@@ -73,7 +73,7 @@ public class Main194ChainingLambdas {
                 new Person195("Mickey", "Mouse")
         ));
 
-        list.sort(((o1, o2) -> o1.lastName.compareTo(o2.lastName)));
+        list.sort((Comparator.comparing(o -> o.lastName)));
         list.forEach(System.out::println);
 
         System.out.println("----------------------------");
